@@ -1,0 +1,1001 @@
+Age,Gender,Occupation,Annual_Income,Education,City_Tier,Existing_Bank_Account,Credit_Score,Investment_Experience,Savings_Amount,Digital_Banking_Usage,Previous_Investments,Demat_Account_Open
+59,Female,Retired,546213,Postgraduate,Tier-2,No,585,4,290644,Medium,Stocks,1
+49,Female,Business,1687018,Graduate,Tier-2,Yes,900,3,231218,High,FD,1
+35,Male,Professional,1303275,Postgraduate,Tier-2,Yes,755,0,391781,Low,None,0
+28,Female,Business,1620523,Graduate,Tier-2,Yes,886,0,620878,Medium,FD,1
+41,Male,Salaried,470205,Postgraduate,Tier-2,Yes,568,1,202435,High,FD,0
+59,Male,Business,2299971,Graduate,Tier-1,No,900,3,599575,High,Mutual Fund,1
+39,Male,Salaried,395761,HSC,Tier-1,Yes,685,3,208963,Low,Mutual Fund,1
+43,Female,Salaried,675897,Graduate,Tier-3,Yes,729,1,245063,High,Mutual Fund,1
+31,Male,Professional,1318196,HSC,Tier-2,Yes,875,1,384556,High,Mutual Fund,1
+31,Male,Salaried,853214,Graduate,Tier-3,Yes,814,0,74214,Medium,None,0
+44,Female,Student,219782,Postgraduate,Tier-3,Yes,523,3,67160,High,Mutual Fund,1
+56,Female,Salaried,404700,Graduate,Tier-2,Yes,583,5,202918,Low,FD,1
+60,Female,Salaried,636128,Graduate,Tier-2,Yes,731,5,246816,High,Mutual Fund,1
+44,Female,Business,1985182,Postgraduate,Tier-1,Yes,900,2,1007855,High,Mutual Fund,1
+23,Male,Salaried,873881,Postgraduate,Tier-1,No,684,0,281133,High,None,0
+42,Male,Business,2410617,Graduate,Tier-1,Yes,900,1,277592,Medium,Mutual Fund,0
+22,Male,Salaried,305209,Graduate,Tier-2,Yes,571,0,17550,Low,None,0
+44,Male,Business,2199564,Graduate,Tier-2,No,893,2,476801,High,Mutual Fund,1
+50,Female,Salaried,699749,Graduate,Tier-2,Yes,613,3,303617,Medium,Mutual Fund,1
+58,Male,Salaried,910885,Postgraduate,Tier-2,Yes,657,5,441453,Low,FD,1
+22,Male,Business,1817931,Postgraduate,Tier-2,Yes,895,1,386608,High,Mutual Fund,1
+41,Female,Professional,1458503,Postgraduate,Tier-2,No,857,1,470527,Medium,Mutual Fund,1
+53,Male,Salaried,1032823,Postgraduate,Tier-3,Yes,782,3,290858,Low,FD,1
+32,Male,Student,237333,HSC,Tier-1,Yes,566,1,65453,Medium,FD,0
+42,Male,Salaried,455666,Postgraduate,Tier-1,Yes,612,1,80763,Low,Mutual Fund,0
+45,Male,Student,196382,Postgraduate,Tier-2,Yes,596,1,24548,High,FD,0
+47,Male,Business,639005,HSC,Tier-2,Yes,588,4,101076,High,FD,1
+48,Male,Salaried,928068,Postgraduate,Tier-2,Yes,793,4,74647,Medium,Stocks,1
+36,Female,Salaried,864984,Graduate,Tier-1,Yes,800,2,137508,High,Mutual Fund,1
+35,Female,Salaried,496521,Graduate,Tier-2,Yes,611,0,27338,High,FD,1
+23,Male,Student,187616,Postgraduate,Tier-1,No,563,0,74106,High,FD,0
+57,Male,Salaried,749764,Graduate,Tier-1,Yes,774,5,167951,Low,Mutual Fund,1
+27,Female,Salaried,457195,HSC,Tier-2,Yes,634,1,267564,High,FD,0
+41,Male,Salaried,701013,Graduate,Tier-2,Yes,725,2,109739,Medium,FD,1
+29,Male,Salaried,350013,Graduate,Tier-3,Yes,614,0,84075,High,None,0
+59,Male,Professional,801562,Postgraduate,Tier-3,Yes,803,5,197835,High,Stocks,1
+38,Female,Salaried,516486,Graduate,Tier-2,Yes,682,3,28225,Medium,FD,1
+24,Male,Retired,676888,Graduate,Tier-3,Yes,718,0,346271,High,None,1
+45,Female,Salaried,710869,Postgraduate,Tier-1,Yes,726,3,48052,Low,Mutual Fund,1
+34,Male,Professional,1235988,Graduate,Tier-2,Yes,763,1,700927,High,FD,1
+29,Female,Business,1410155,Graduate,Tier-2,Yes,804,0,762387,Low,None,1
+46,Female,Business,2312214,Graduate,Tier-2,Yes,900,3,796643,High,Mutual Fund,1
+22,Male,Business,1050428,Postgraduate,Tier-2,Yes,767,0,366575,Low,None,1
+40,Female,Salaried,563328,Graduate,Tier-1,Yes,592,1,230726,Low,FD,0
+48,Male,Salaried,727709,Graduate,Tier-2,Yes,807,4,191298,Medium,Mutual Fund,1
+27,Female,Salaried,980206,HSC,Tier-3,Yes,804,0,397936,Medium,None,1
+28,Male,Salaried,411361,HSC,Tier-3,Yes,634,0,30696,Medium,None,0
+55,Male,Student,273267,Graduate,Tier-2,Yes,588,5,21786,High,Mutual Fund,1
+34,Female,Salaried,1092038,Graduate,Tier-2,Yes,780,2,329224,Medium,Mutual Fund,1
+37,Male,Business,897172,Graduate,Tier-2,Yes,760,2,316066,Low,FD,1
+56,Male,Salaried,316555,Postgraduate,Tier-2,Yes,500,5,170401,Medium,Stocks,0
+60,Female,Professional,1014673,Graduate,Tier-1,No,879,5,109141,High,FD,1
+24,Male,Business,1960482,Postgraduate,Tier-2,Yes,894,0,985056,High,None,1
+22,Male,Retired,570646,Postgraduate,Tier-2,No,664,1,94456,High,Mutual Fund,1
+26,Female,Salaried,555658,Postgraduate,Tier-3,Yes,663,0,148219,High,FD,0
+24,Female,Salaried,742065,Graduate,Tier-2,Yes,818,0,166320,Medium,None,0
+49,Male,Salaried,981707,Graduate,Tier-2,Yes,741,4,265144,Low,Mutual Fund,1
+38,Male,Salaried,1054085,Graduate,Tier-2,Yes,856,1,139953,Medium,Mutual Fund,1
+46,Female,Professional,503844,HSC,Tier-2,Yes,675,3,164738,High,FD,1
+54,Female,Salaried,391321,Graduate,Tier-2,Yes,570,4,192100,High,Stocks,0
+30,Male,Business,1335488,Postgraduate,Tier-1,Yes,825,0,391089,Medium,None,1
+56,Female,Salaried,1019211,Postgraduate,Tier-2,Yes,746,5,325981,Low,Stocks,1
+34,Male,Business,598234,Graduate,Tier-3,Yes,604,2,309180,Low,FD,0
+51,Male,Business,974718,Graduate,Tier-2,Yes,766,2,427250,Medium,Mutual Fund,1
+35,Male,Salaried,1051993,Postgraduate,Tier-1,Yes,761,0,336374,High,None,1
+28,Male,Salaried,1025571,HSC,Tier-2,No,788,0,196635,Low,FD,1
+34,Male,Salaried,1128282,Graduate,Tier-3,Yes,787,2,605559,High,FD,1
+43,Female,Student,147843,Postgraduate,Tier-1,Yes,540,3,54311,Medium,FD,0
+60,Female,Salaried,624464,Graduate,Tier-3,Yes,720,5,107177,High,Mutual Fund,1
+41,Female,Student,149793,HSC,Tier-3,Yes,542,1,29661,High,FD,0
+36,Female,Salaried,973217,Graduate,Tier-2,Yes,558,2,478553,High,Mutual Fund,1
+38,Male,Salaried,319627,Postgraduate,Tier-3,Yes,621,2,23741,High,Mutual Fund,0
+44,Male,Salaried,623966,Graduate,Tier-3,Yes,641,1,371665,High,FD,1
+46,Male,Business,977317,Graduate,Tier-3,Yes,768,4,118933,High,Stocks,1
+45,Male,Student,175798,Graduate,Tier-2,Yes,705,1,85760,High,FD,1
+49,Female,Business,2297304,Graduate,Tier-1,No,900,3,613670,High,FD,1
+35,Male,Salaried,999476,Graduate,Tier-1,Yes,739,1,320550,High,FD,1
+21,Male,Salaried,637462,Postgraduate,Tier-2,Yes,627,0,340632,High,None,1
+45,Female,Professional,750046,HSC,Tier-1,Yes,735,1,207838,High,Mutual Fund,1
+27,Female,Student,279629,Postgraduate,Tier-2,Yes,583,0,96645,High,None,0
+29,Female,Salaried,633478,HSC,Tier-3,Yes,700,0,48850,Medium,None,0
+44,Female,Salaried,768379,Graduate,Tier-3,Yes,664,2,39411,Low,FD,0
+21,Male,Salaried,668863,HSC,Tier-2,Yes,698,0,123498,Medium,FD,1
+28,Male,Salaried,423099,Graduate,Tier-3,Yes,585,1,179529,Medium,FD,1
+44,Female,Salaried,1033362,Graduate,Tier-3,Yes,827,1,120588,High,FD,1
+31,Male,Professional,1097974,Graduate,Tier-2,Yes,734,0,123597,Medium,None,1
+37,Male,Salaried,574864,Graduate,Tier-1,Yes,704,2,158678,High,FD,1
+28,Male,Salaried,619752,Graduate,Tier-2,Yes,598,0,251811,Medium,None,0
+55,Female,Salaried,407449,HSC,Tier-2,Yes,678,3,179945,Low,Mutual Fund,0
+55,Male,Business,1651404,Postgraduate,Tier-2,Yes,822,5,244651,High,Mutual Fund,1
+53,Female,Salaried,426613,Postgraduate,Tier-2,Yes,650,4,40004,High,Mutual Fund,1
+25,Male,Salaried,372095,Graduate,Tier-1,Yes,685,0,211059,Low,None,0
+59,Male,Salaried,930212,Graduate,Tier-2,Yes,724,5,179871,High,FD,1
+48,Male,Retired,346452,Graduate,Tier-3,Yes,557,3,179926,High,FD,0
+27,Female,Salaried,387593,HSC,Tier-2,Yes,657,1,203455,Low,Mutual Fund,0
+29,Male,Salaried,991252,Graduate,Tier-3,Yes,697,0,470733,Low,FD,0
+28,Female,Salaried,1193407,Postgraduate,Tier-3,Yes,764,0,170488,High,FD,1
+32,Female,Business,1887962,Graduate,Tier-3,Yes,900,0,947739,Medium,FD,1
+54,Female,Salaried,426202,HSC,Tier-3,Yes,716,5,201630,Medium,FD,1
+53,Male,Salaried,377606,Postgraduate,Tier-3,Yes,627,3,142809,Low,FD,1
+43,Male,Professional,1572345,Graduate,Tier-2,Yes,865,2,370226,High,FD,1
+44,Male,Business,618542,Postgraduate,Tier-1,Yes,717,3,120232,High,FD,1
+57,Male,Salaried,668582,Graduate,Tier-2,Yes,686,4,78250,High,FD,1
+55,Female,Professional,975610,Graduate,Tier-2,Yes,783,5,322308,Low,Mutual Fund,1
+60,Female,Salaried,457550,HSC,Tier-1,Yes,706,3,170159,High,Mutual Fund,1
+42,Female,Salaried,895330,Graduate,Tier-1,Yes,709,2,221716,Medium,Mutual Fund,1
+47,Male,Student,166418,Postgraduate,Tier-3,Yes,500,3,51830,Medium,Mutual Fund,1
+55,Female,Retired,350699,Graduate,Tier-3,No,571,5,87651,Medium,Stocks,0
+21,Male,Salaried,390140,Postgraduate,Tier-3,Yes,700,0,157052,Medium,None,0
+55,Female,Salaried,766978,Graduate,Tier-2,No,701,5,418534,High,FD,1
+57,Male,Student,131781,HSC,Tier-1,Yes,556,5,18469,High,Mutual Fund,1
+34,Male,Business,1947307,HSC,Tier-1,Yes,900,1,505861,Medium,FD,1
+23,Female,Salaried,679502,Graduate,Tier-1,Yes,679,0,86621,High,None,0
+21,Female,Salaried,598277,Postgraduate,Tier-1,Yes,544,0,235553,High,None,1
+25,Female,Student,217628,Graduate,Tier-1,Yes,503,0,98123,High,None,0
+46,Female,Student,196946,Graduate,Tier-3,Yes,614,2,110792,Medium,Mutual Fund,0
+34,Male,Salaried,385058,Graduate,Tier-2,Yes,622,2,78312,High,FD,0
+59,Female,Business,2475175,HSC,Tier-1,Yes,900,4,1417325,Medium,Mutual Fund,1
+47,Female,Salaried,781799,Graduate,Tier-1,Yes,662,3,66292,High,Mutual Fund,1
+29,Female,Salaried,451542,HSC,Tier-2,Yes,621,0,172334,Low,None,0
+35,Male,Business,1853849,Postgraduate,Tier-1,Yes,867,2,150945,High,FD,1
+35,Male,Student,128531,Graduate,Tier-3,Yes,544,1,69609,Medium,FD,0
+46,Female,Salaried,599182,Graduate,Tier-2,No,556,4,204557,Medium,Mutual Fund,0
+33,Male,Retired,600083,Graduate,Tier-2,Yes,646,1,250919,High,Mutual Fund,1
+52,Female,Salaried,342674,Graduate,Tier-2,No,615,2,173861,High,Mutual Fund,0
+59,Male,Salaried,427572,Postgraduate,Tier-1,Yes,627,5,56726,High,Mutual Fund,1
+52,Male,Salaried,1050018,Graduate,Tier-2,Yes,888,3,74787,High,FD,1
+24,Male,Salaried,775692,HSC,Tier-2,Yes,815,0,413742,Medium,None,1
+50,Male,Salaried,591975,Graduate,Tier-2,Yes,623,2,132136,Medium,Mutual Fund,0
+57,Female,Salaried,881462,Graduate,Tier-1,Yes,603,3,106602,Medium,FD,1
+43,Female,Salaried,1097711,HSC,Tier-2,Yes,763,3,337714,Low,Mutual Fund,1
+59,Female,Salaried,731436,Postgraduate,Tier-2,Yes,718,5,277264,High,Mutual Fund,1
+35,Male,Retired,572754,Postgraduate,Tier-3,Yes,612,1,38393,High,Mutual Fund,1
+49,Female,Business,945935,Postgraduate,Tier-2,Yes,690,2,190315,High,Mutual Fund,1
+56,Female,Salaried,1080296,Graduate,Tier-2,Yes,861,4,73503,High,FD,1
+33,Female,Salaried,353051,Graduate,Tier-2,Yes,605,1,99272,High,Mutual Fund,0
+52,Male,Business,1751661,Graduate,Tier-2,Yes,900,2,949934,Low,FD,1
+27,Male,Salaried,618796,Graduate,Tier-2,Yes,617,0,365373,Low,None,0
+42,Male,Salaried,365524,Postgraduate,Tier-2,Yes,619,3,146347,High,Mutual Fund,0
+48,Female,Retired,518614,Graduate,Tier-2,Yes,633,3,72035,Medium,Mutual Fund,1
+22,Female,Salaried,760814,Postgraduate,Tier-3,Yes,661,0,417091,Low,None,0
+26,Female,Business,1017733,Postgraduate,Tier-2,Yes,822,1,339857,Medium,FD,1
+48,Male,Retired,565617,Graduate,Tier-3,Yes,579,4,76110,High,FD,1
+48,Male,Salaried,1055477,Graduate,Tier-2,Yes,779,3,587847,Medium,FD,1
+40,Female,Student,164439,Graduate,Tier-3,Yes,561,2,76728,High,Mutual Fund,0
+50,Male,Salaried,576452,Graduate,Tier-3,No,690,4,260808,High,Stocks,1
+31,Male,Professional,491563,Postgraduate,Tier-2,No,627,1,216311,Medium,Mutual Fund,0
+48,Male,Professional,1151616,Graduate,Tier-3,Yes,832,2,184473,High,FD,1
+45,Male,Business,1845801,Graduate,Tier-1,Yes,862,2,306502,High,Mutual Fund,1
+59,Female,Student,129837,Graduate,Tier-3,Yes,645,4,55643,High,Mutual Fund,0
+53,Male,Professional,1159495,Postgraduate,Tier-2,Yes,780,4,198096,High,Stocks,1
+21,Male,Professional,1369655,Graduate,Tier-1,Yes,744,0,398938,Low,FD,1
+47,Male,Business,2190992,Postgraduate,Tier-2,Yes,900,3,1051897,High,Mutual Fund,1
+33,Male,Retired,417896,Graduate,Tier-3,No,621,1,201080,Medium,FD,1
+23,Female,Professional,1021912,Postgraduate,Tier-1,Yes,651,0,305852,High,None,1
+59,Female,Business,919515,Postgraduate,Tier-2,Yes,753,4,446612,High,FD,1
+26,Male,Salaried,1014221,Graduate,Tier-2,Yes,813,0,518512,High,FD,1
+28,Male,Salaried,330063,Graduate,Tier-3,Yes,692,0,135367,Medium,None,0
+47,Male,Salaried,893741,Postgraduate,Tier-2,Yes,706,2,156971,Medium,FD,1
+29,Male,Business,1539272,Graduate,Tier-1,No,866,0,308941,Medium,None,0
+57,Male,Salaried,554371,Postgraduate,Tier-1,Yes,663,5,123714,Medium,Stocks,1
+53,Male,Professional,1385976,HSC,Tier-2,Yes,900,2,158337,Medium,FD,1
+44,Female,Retired,352166,Postgraduate,Tier-2,Yes,571,2,70516,Medium,Mutual Fund,0
+35,Male,Business,1563082,Postgraduate,Tier-3,Yes,834,0,258276,Low,FD,0
+52,Female,Student,233604,Postgraduate,Tier-1,Yes,546,3,70181,High,Mutual Fund,1
+52,Female,Salaried,326026,HSC,Tier-2,Yes,528,2,179197,Low,FD,0
+44,Male,Student,278744,Graduate,Tier-1,Yes,620,3,29954,High,FD,1
+32,Female,Business,1863133,Graduate,Tier-1,Yes,900,0,831231,High,None,1
+59,Female,Business,1803692,Graduate,Tier-2,Yes,898,3,771990,Medium,FD,1
+22,Female,Professional,1775786,Graduate,Tier-2,Yes,852,1,182310,High,FD,1
+23,Female,Salaried,490285,HSC,Tier-2,Yes,659,0,273292,Medium,None,0
+57,Female,Professional,1499547,Postgraduate,Tier-3,Yes,885,4,543825,High,Mutual Fund,1
+37,Female,Professional,820497,Graduate,Tier-2,Yes,704,0,205164,Medium,FD,0
+22,Male,Salaried,413978,HSC,Tier-3,Yes,717,0,192953,Medium,None,0
+22,Female,Professional,1607739,Graduate,Tier-3,Yes,822,0,307964,High,None,1
+48,Female,Salaried,1136926,Graduate,Tier-2,Yes,760,4,490504,Medium,Stocks,1
+43,Female,Salaried,403864,HSC,Tier-3,Yes,648,1,29014,High,Mutual Fund,0
+57,Male,Business,1531259,Postgraduate,Tier-2,Yes,879,3,783506,Medium,Mutual Fund,1
+52,Female,Salaried,694295,Postgraduate,Tier-1,Yes,691,3,205854,Medium,Mutual Fund,1
+53,Male,Business,1119674,Graduate,Tier-2,Yes,697,2,448072,Low,Mutual Fund,0
+21,Female,Business,1988543,HSC,Tier-1,Yes,900,0,341394,Low,None,1
+39,Male,Salaried,910414,Postgraduate,Tier-2,Yes,717,1,384550,Medium,Mutual Fund,1
+22,Male,Salaried,748648,Graduate,Tier-2,Yes,706,0,355407,Low,None,0
+46,Female,Salaried,986311,Graduate,Tier-1,Yes,784,3,306020,Low,FD,1
+52,Female,Salaried,905151,Graduate,Tier-1,Yes,692,3,352782,High,FD,1
+26,Male,Salaried,640435,Graduate,Tier-3,Yes,681,1,192757,Low,FD,1
+52,Female,Salaried,425659,Graduate,Tier-2,Yes,594,2,230600,High,FD,0
+24,Male,Student,127235,Graduate,Tier-1,Yes,600,1,41202,Medium,FD,0
+31,Male,Salaried,644877,Graduate,Tier-2,Yes,662,2,330818,High,FD,1
+37,Male,Salaried,362712,Postgraduate,Tier-2,Yes,638,0,177998,Medium,FD,0
+58,Male,Business,1701121,Graduate,Tier-2,Yes,827,4,469131,Medium,FD,1
+44,Male,Business,2271503,Postgraduate,Tier-3,Yes,900,2,401025,Medium,Mutual Fund,1
+25,Female,Salaried,1062178,Postgraduate,Tier-2,Yes,680,0,290341,Medium,None,0
+54,Male,Salaried,425849,Graduate,Tier-2,Yes,592,3,214806,High,Mutual Fund,1
+26,Male,Retired,505493,Graduate,Tier-3,No,500,0,88561,Low,FD,0
+42,Female,Professional,1004111,Graduate,Tier-3,No,732,1,339831,High,Mutual Fund,1
+31,Male,Professional,1552791,Graduate,Tier-1,Yes,828,0,766074,Medium,None,1
+36,Female,Professional,432230,Postgraduate,Tier-1,Yes,645,0,105642,Medium,None,0
+53,Female,Student,204573,Graduate,Tier-1,Yes,593,3,82486,High,Mutual Fund,1
+29,Female,Salaried,1047948,Postgraduate,Tier-2,Yes,835,1,193972,Medium,Mutual Fund,1
+26,Male,Salaried,762092,HSC,Tier-2,Yes,858,1,83909,High,Mutual Fund,1
+36,Male,Salaried,602788,HSC,Tier-2,Yes,738,0,293504,Medium,None,0
+49,Male,Salaried,479736,Graduate,Tier-3,Yes,618,3,50100,High,FD,0
+23,Female,Salaried,1131635,Graduate,Tier-3,Yes,746,0,225489,Low,FD,1
+40,Male,Salaried,628821,Graduate,Tier-1,Yes,727,2,327181,High,FD,1
+56,Female,Business,1967217,Graduate,Tier-1,Yes,842,3,473229,High,Mutual Fund,1
+39,Male,Business,1147534,Graduate,Tier-2,No,760,2,671508,Medium,FD,0
+46,Female,Salaried,384817,HSC,Tier-2,Yes,612,3,226600,Low,Mutual Fund,0
+23,Male,Professional,1687233,Postgraduate,Tier-2,Yes,900,1,333315,Medium,FD,1
+39,Male,Salaried,517033,Graduate,Tier-3,No,690,1,37504,High,FD,0
+40,Male,Professional,631414,Postgraduate,Tier-1,Yes,631,3,276423,Medium,Mutual Fund,1
+52,Female,Student,189806,Postgraduate,Tier-2,Yes,563,4,56570,Medium,Stocks,1
+27,Female,Retired,554958,Postgraduate,Tier-3,Yes,687,0,58500,Low,None,0
+53,Male,Business,2143083,HSC,Tier-2,Yes,900,2,941108,Medium,FD,1
+60,Male,Salaried,470956,Postgraduate,Tier-1,Yes,716,4,31622,High,FD,1
+59,Female,Salaried,657489,Graduate,Tier-2,Yes,718,4,347554,High,Stocks,1
+38,Female,Salaried,557134,Graduate,Tier-1,Yes,671,2,70343,Medium,Mutual Fund,0
+60,Female,Salaried,662232,Graduate,Tier-3,Yes,705,3,79482,High,Mutual Fund,1
+21,Male,Salaried,1155754,Postgraduate,Tier-1,Yes,753,0,169456,Medium,None,1
+31,Female,Business,521650,Graduate,Tier-2,No,616,1,301590,Low,Mutual Fund,0
+48,Male,Salaried,656386,Postgraduate,Tier-2,Yes,655,2,283061,Medium,FD,0
+45,Female,Business,1426694,Graduate,Tier-3,Yes,865,2,700156,High,Mutual Fund,0
+43,Male,Professional,1619097,Postgraduate,Tier-1,Yes,885,1,435050,High,FD,1
+51,Female,Salaried,470733,Postgraduate,Tier-1,Yes,618,2,110609,High,FD,0
+50,Female,Salaried,1116141,Graduate,Tier-1,No,818,4,199751,Medium,Stocks,1
+55,Female,Student,200428,Postgraduate,Tier-1,Yes,579,4,63005,Medium,Mutual Fund,1
+27,Female,Business,706251,HSC,Tier-1,Yes,649,1,249663,Medium,FD,0
+36,Female,Salaried,834231,HSC,Tier-2,Yes,732,2,331586,High,FD,1
+46,Male,Retired,424312,HSC,Tier-1,Yes,574,3,81219,High,FD,1
+22,Female,Professional,421042,Graduate,Tier-1,Yes,532,0,240734,High,None,0
+21,Female,Salaried,1077130,Graduate,Tier-3,Yes,765,0,154425,Medium,None,0
+32,Female,Salaried,1130326,HSC,Tier-2,Yes,736,1,656842,Medium,FD,1
+25,Male,Professional,1378582,HSC,Tier-2,Yes,810,1,80193,Medium,Mutual Fund,1
+57,Female,Professional,718903,Postgraduate,Tier-1,Yes,635,5,226180,Medium,Mutual Fund,1
+52,Male,Salaried,668117,Postgraduate,Tier-3,Yes,756,3,155906,Medium,Mutual Fund,1
+29,Female,Salaried,1130738,Postgraduate,Tier-1,Yes,736,1,335849,Low,Mutual Fund,1
+55,Female,Professional,1294801,Postgraduate,Tier-3,Yes,783,3,471133,Low,Mutual Fund,1
+39,Male,Salaried,1010731,Postgraduate,Tier-3,No,774,3,292681,High,Mutual Fund,1
+36,Female,Professional,1214811,HSC,Tier-1,Yes,710,0,337918,High,FD,1
+23,Male,Salaried,682811,Graduate,Tier-3,Yes,599,1,309311,Medium,Mutual Fund,1
+40,Male,Student,254034,Postgraduate,Tier-1,Yes,623,1,108531,Medium,FD,1
+44,Female,Professional,838963,Graduate,Tier-1,Yes,691,1,426444,Medium,Mutual Fund,1
+53,Male,Salaried,614493,Graduate,Tier-3,Yes,618,3,115203,High,FD,1
+44,Female,Salaried,501904,HSC,Tier-2,Yes,686,1,193353,High,FD,0
+31,Female,Student,265817,Graduate,Tier-2,Yes,554,1,98845,High,FD,0
+28,Male,Student,125730,Graduate,Tier-1,Yes,558,1,31854,High,FD,1
+56,Male,Business,1955713,Graduate,Tier-2,Yes,887,5,620609,Medium,Stocks,1
+58,Male,Salaried,1053790,Graduate,Tier-3,Yes,778,5,234552,Medium,Mutual Fund,0
+60,Male,Salaried,502210,Graduate,Tier-1,Yes,730,3,64290,Medium,Mutual Fund,1
+40,Female,Professional,1138471,HSC,Tier-1,Yes,666,3,190797,Medium,Mutual Fund,1
+55,Female,Business,1567599,HSC,Tier-1,No,870,5,169351,High,Mutual Fund,1
+45,Male,Salaried,951084,Postgraduate,Tier-1,Yes,791,2,404865,Medium,FD,1
+55,Female,Salaried,1167965,Graduate,Tier-3,Yes,758,4,482836,Low,Mutual Fund,1
+45,Female,Professional,745430,HSC,Tier-2,Yes,631,3,427007,Medium,Mutual Fund,0
+49,Female,Business,1328411,Postgraduate,Tier-3,Yes,840,4,599542,High,Mutual Fund,1
+38,Female,Salaried,1109269,Graduate,Tier-2,Yes,831,1,87216,Medium,Mutual Fund,1
+38,Male,Salaried,708213,Graduate,Tier-2,Yes,745,1,379839,High,FD,1
+22,Male,Salaried,1191407,HSC,Tier-1,Yes,810,1,624858,Medium,FD,0
+55,Female,Business,1200399,Postgraduate,Tier-2,Yes,795,4,352708,Low,FD,1
+36,Male,Professional,420923,Graduate,Tier-1,Yes,580,2,156677,Medium,FD,1
+56,Male,Business,2343884,Graduate,Tier-1,Yes,900,3,1375492,High,Mutual Fund,1
+53,Male,Professional,1247405,Postgraduate,Tier-2,Yes,848,3,427569,Medium,Mutual Fund,1
+24,Female,Business,1944679,Graduate,Tier-3,Yes,870,0,1065542,High,None,1
+53,Female,Salaried,494795,Graduate,Tier-2,Yes,670,2,47337,Medium,Mutual Fund,0
+34,Female,Salaried,1128854,Graduate,Tier-1,No,814,2,175061,Low,Mutual Fund,0
+41,Male,Salaried,533462,Graduate,Tier-1,Yes,709,3,155992,High,FD,1
+40,Female,Salaried,351413,HSC,Tier-1,Yes,615,3,130590,Medium,FD,0
+28,Female,Professional,1288916,Graduate,Tier-2,Yes,756,0,643072,High,FD,1
+27,Male,Salaried,555719,Postgraduate,Tier-3,No,631,0,329843,High,None,0
+23,Female,Salaried,853044,Graduate,Tier-3,Yes,660,0,225091,Medium,FD,0
+37,Female,Salaried,633720,Graduate,Tier-1,No,673,2,48212,High,FD,1
+53,Male,Salaried,942536,HSC,Tier-2,Yes,723,2,462449,Low,Mutual Fund,1
+32,Male,Salaried,572448,Graduate,Tier-2,Yes,793,1,218909,Medium,FD,1
+42,Male,Salaried,854629,Graduate,Tier-2,No,774,1,136055,Low,FD,0
+42,Female,Business,2470838,Postgraduate,Tier-2,Yes,900,3,795994,High,Mutual Fund,1
+50,Female,Salaried,710226,Graduate,Tier-2,Yes,720,3,325475,Medium,FD,1
+58,Female,Business,1675615,Postgraduate,Tier-2,Yes,863,3,793783,High,FD,1
+58,Male,Student,282730,Postgraduate,Tier-1,Yes,590,3,91827,High,FD,1
+28,Male,Salaried,480074,Graduate,Tier-3,No,634,0,104592,Medium,None,0
+47,Female,Salaried,1058678,Postgraduate,Tier-1,Yes,773,3,619917,Medium,Mutual Fund,1
+47,Female,Salaried,956735,Graduate,Tier-2,Yes,764,4,396900,Medium,Mutual Fund,1
+54,Male,Business,2172349,Graduate,Tier-2,Yes,900,4,596376,Medium,FD,1
+41,Male,Salaried,1108524,Graduate,Tier-2,Yes,754,3,226421,Medium,FD,1
+50,Male,Salaried,431562,Graduate,Tier-3,Yes,600,2,195112,High,FD,0
+53,Male,Business,1552305,Graduate,Tier-3,Yes,776,4,284383,High,Mutual Fund,1
+48,Female,Student,257046,Graduate,Tier-3,Yes,678,2,37127,High,FD,0
+53,Male,Salaried,942510,Graduate,Tier-2,No,870,3,321781,High,Mutual Fund,1
+25,Female,Professional,1795936,Graduate,Tier-2,Yes,900,0,376236,High,None,1
+39,Female,Business,1108148,HSC,Tier-2,Yes,696,2,438713,Medium,FD,1
+24,Female,Salaried,558360,Postgraduate,Tier-3,No,708,0,64136,High,FD,1
+55,Male,Professional,759014,Postgraduate,Tier-2,Yes,763,3,311360,High,Mutual Fund,1
+37,Male,Business,1569974,Graduate,Tier-3,Yes,839,0,323121,Medium,None,1
+48,Male,Salaried,596794,Graduate,Tier-3,Yes,698,2,29919,High,Mutual Fund,0
+50,Male,Business,2487372,Postgraduate,Tier-2,Yes,900,4,298024,Medium,Mutual Fund,1
+49,Female,Salaried,928177,Postgraduate,Tier-1,Yes,827,2,523017,High,Mutual Fund,1
+26,Male,Salaried,565303,Postgraduate,Tier-1,No,684,1,297940,High,Mutual Fund,0
+55,Male,Salaried,660306,Graduate,Tier-3,Yes,627,4,117854,High,Mutual Fund,1
+57,Female,Salaried,755982,Graduate,Tier-1,Yes,741,4,361438,Medium,Stocks,1
+44,Male,Business,1774535,HSC,Tier-3,Yes,900,3,682689,High,FD,1
+49,Female,Salaried,927122,Graduate,Tier-2,Yes,747,3,541437,Medium,Mutual Fund,1
+51,Female,Professional,918490,Postgraduate,Tier-2,Yes,762,3,234658,Medium,FD,1
+55,Female,Business,2304933,Postgraduate,Tier-3,Yes,900,3,979143,High,FD,1
+53,Female,Student,149320,Graduate,Tier-2,Yes,511,2,12683,High,FD,1
+41,Female,Business,963092,Postgraduate,Tier-2,Yes,733,1,258047,High,FD,1
+52,Female,Salaried,334924,Graduate,Tier-2,Yes,648,4,194289,Medium,Mutual Fund,0
+43,Female,Salaried,512792,Graduate,Tier-2,Yes,644,3,177651,Medium,Mutual Fund,0
+53,Female,Business,1982526,Graduate,Tier-3,Yes,900,3,413027,High,Mutual Fund,1
+23,Male,Salaried,1154548,Postgraduate,Tier-1,Yes,757,0,134099,Medium,None,0
+38,Male,Salaried,995385,HSC,Tier-3,Yes,729,3,434924,Low,FD,1
+45,Male,Salaried,302159,Postgraduate,Tier-3,Yes,660,3,122274,High,Mutual Fund,1
+51,Male,Student,168940,Postgraduate,Tier-1,Yes,597,2,43192,Medium,FD,0
+23,Female,Salaried,903724,HSC,Tier-2,Yes,706,1,517849,High,Mutual Fund,1
+60,Male,Salaried,770192,Graduate,Tier-2,Yes,766,3,47914,Medium,Mutual Fund,1
+44,Female,Retired,264678,Postgraduate,Tier-1,Yes,561,2,57447,Medium,Mutual Fund,0
+52,Male,Salaried,1016435,Graduate,Tier-3,Yes,709,3,565735,Medium,Mutual Fund,1
+42,Male,Salaried,740420,Postgraduate,Tier-1,Yes,528,2,167715,Medium,Mutual Fund,0
+43,Male,Salaried,705237,Postgraduate,Tier-1,Yes,657,1,133105,Medium,FD,0
+22,Female,Student,257844,Graduate,Tier-2,Yes,680,1,88652,Medium,Mutual Fund,1
+47,Male,Retired,317163,Graduate,Tier-2,Yes,500,3,159561,Medium,FD,0
+22,Female,Business,1265328,Postgraduate,Tier-2,Yes,745,0,135049,Low,None,1
+46,Female,Business,1229115,Graduate,Tier-3,Yes,822,3,698950,Medium,FD,1
+37,Male,Salaried,454536,HSC,Tier-2,Yes,506,2,221490,Low,Mutual Fund,0
+60,Male,Salaried,875425,HSC,Tier-2,Yes,694,5,131040,Low,Mutual Fund,1
+53,Male,Salaried,723448,Graduate,Tier-1,Yes,763,2,319477,High,FD,1
+29,Female,Professional,1247929,Postgraduate,Tier-2,Yes,900,0,326617,High,None,1
+59,Male,Student,220485,Postgraduate,Tier-1,No,611,5,59809,High,Stocks,0
+49,Female,Salaried,540970,Graduate,Tier-1,Yes,602,2,260103,Medium,Mutual Fund,0
+46,Female,Retired,694664,HSC,Tier-2,Yes,631,3,402579,High,Mutual Fund,1
+55,Male,Salaried,929756,Graduate,Tier-1,No,744,5,111255,High,Mutual Fund,1
+45,Male,Salaried,300901,Postgraduate,Tier-1,Yes,627,3,84657,High,FD,0
+44,Female,Student,207980,Graduate,Tier-1,Yes,703,1,65413,Medium,FD,0
+33,Female,Retired,619738,Graduate,Tier-3,Yes,732,1,159255,High,Mutual Fund,1
+27,Female,Student,122881,HSC,Tier-3,Yes,579,0,30690,High,None,0
+56,Male,Business,792007,Graduate,Tier-2,Yes,688,5,62368,High,Mutual Fund,1
+40,Female,Business,1266722,Postgraduate,Tier-3,Yes,900,2,540948,Low,FD,1
+21,Male,Salaried,698838,Graduate,Tier-3,Yes,727,0,202605,Medium,None,1
+28,Female,Business,1015956,Graduate,Tier-2,No,713,1,159643,Medium,FD,1
+36,Female,Student,252450,Graduate,Tier-1,Yes,587,2,125926,Medium,Mutual Fund,0
+34,Male,Salaried,776384,Postgraduate,Tier-3,Yes,652,0,381521,High,None,0
+32,Female,Professional,887063,HSC,Tier-2,Yes,583,2,281656,Low,Mutual Fund,0
+43,Male,Professional,1126546,Graduate,Tier-2,Yes,794,2,241247,Low,FD,1
+35,Male,Business,1331633,Graduate,Tier-3,Yes,900,1,533919,Medium,FD,0
+48,Female,Salaried,551839,Postgraduate,Tier-2,Yes,562,4,115049,Low,FD,0
+54,Male,Salaried,621395,Graduate,Tier-2,Yes,677,3,111729,Medium,Mutual Fund,1
+22,Male,Student,192572,HSC,Tier-3,Yes,546,0,87000,High,None,0
+52,Female,Student,159255,Graduate,Tier-2,Yes,613,3,11494,High,Mutual Fund,1
+43,Male,Salaried,887500,Postgraduate,Tier-2,Yes,717,1,90633,Low,Mutual Fund,1
+42,Male,Salaried,1136642,HSC,Tier-2,Yes,695,3,61075,Medium,Mutual Fund,1
+45,Male,Salaried,687773,Postgraduate,Tier-2,Yes,628,3,92243,Medium,FD,0
+42,Female,Salaried,322499,Graduate,Tier-3,No,564,2,28362,Low,FD,0
+42,Male,Salaried,926840,Graduate,Tier-1,Yes,816,2,553964,High,FD,1
+26,Female,Salaried,744844,Graduate,Tier-2,Yes,776,0,155557,High,None,1
+35,Female,Professional,886525,Postgraduate,Tier-1,Yes,708,0,117107,High,None,0
+57,Male,Salaried,1171905,Graduate,Tier-2,Yes,858,5,213928,High,Stocks,1
+53,Male,Retired,393704,Postgraduate,Tier-2,Yes,618,4,222391,Low,Stocks,0
+28,Male,Professional,1085967,Postgraduate,Tier-3,Yes,747,1,364980,High,FD,1
+25,Female,Salaried,391873,Graduate,Tier-1,Yes,631,0,98222,High,None,0
+59,Male,Professional,465756,Postgraduate,Tier-2,Yes,660,5,247020,High,Mutual Fund,1
+24,Male,Salaried,740210,Postgraduate,Tier-1,Yes,664,0,197817,Low,None,1
+26,Male,Salaried,494454,HSC,Tier-3,Yes,650,0,115828,High,None,0
+52,Male,Salaried,618488,Graduate,Tier-3,Yes,720,4,101435,High,Stocks,1
+50,Male,Salaried,746991,Postgraduate,Tier-3,Yes,707,3,192565,High,FD,1
+55,Female,Salaried,700565,HSC,Tier-3,Yes,692,5,157050,Low,Stocks,1
+60,Female,Salaried,1157586,Postgraduate,Tier-3,No,811,3,489099,High,Mutual Fund,1
+36,Male,Business,2100328,Postgraduate,Tier-1,Yes,900,0,439536,High,None,1
+33,Male,Business,1984416,HSC,Tier-1,No,900,0,729193,High,None,1
+50,Male,Salaried,421897,Graduate,Tier-2,Yes,605,4,36384,High,Mutual Fund,0
+39,Male,Business,1020082,Graduate,Tier-3,Yes,765,1,158325,High,Mutual Fund,1
+37,Female,Salaried,599488,Graduate,Tier-3,Yes,574,1,164303,Medium,FD,0
+39,Male,Salaried,383791,HSC,Tier-1,Yes,614,3,216965,High,FD,1
+48,Female,Professional,1103335,HSC,Tier-3,Yes,622,4,284096,Medium,Mutual Fund,1
+46,Female,Salaried,432534,Graduate,Tier-2,No,535,2,179605,High,FD,0
+57,Male,Student,240209,Postgraduate,Tier-2,Yes,500,3,45711,Low,FD,0
+46,Female,Salaried,381441,Postgraduate,Tier-1,Yes,689,3,45722,Medium,Mutual Fund,0
+43,Female,Salaried,1176888,Graduate,Tier-1,Yes,786,3,96734,High,FD,1
+29,Female,Retired,593932,HSC,Tier-2,Yes,593,0,129463,High,None,1
+32,Female,Salaried,537612,Graduate,Tier-2,Yes,686,1,73498,High,Mutual Fund,0
+21,Male,Retired,683797,Graduate,Tier-1,Yes,746,0,99633,High,FD,1
+21,Male,Salaried,531444,Postgraduate,Tier-2,Yes,686,0,248937,High,None,0
+54,Female,Salaried,1100607,Postgraduate,Tier-3,Yes,758,3,64617,Low,FD,1
+52,Male,Salaried,437263,Postgraduate,Tier-3,Yes,651,4,156013,Medium,Mutual Fund,1
+45,Male,Business,845578,Postgraduate,Tier-3,Yes,773,1,218754,Low,Mutual Fund,1
+60,Male,Salaried,908806,HSC,Tier-2,Yes,703,5,298635,Medium,Stocks,1
+21,Male,Professional,1302153,Postgraduate,Tier-1,Yes,812,0,468197,Medium,None,1
+36,Male,Professional,447645,Graduate,Tier-2,Yes,624,2,99534,High,FD,0
+59,Female,Salaried,539608,Postgraduate,Tier-2,Yes,561,4,114564,High,Mutual Fund,1
+25,Male,Retired,273283,Graduate,Tier-1,Yes,659,1,123898,Low,FD,0
+42,Male,Professional,749115,Postgraduate,Tier-1,Yes,823,2,396433,Low,Mutual Fund,1
+49,Male,Business,2427767,Postgraduate,Tier-2,Yes,900,2,378537,High,Mutual Fund,1
+23,Male,Salaried,1014483,HSC,Tier-1,Yes,810,1,105192,Medium,Mutual Fund,1
+32,Female,Salaried,402780,Graduate,Tier-1,Yes,580,0,219026,Medium,None,0
+46,Female,Salaried,723240,Postgraduate,Tier-1,Yes,702,3,175344,High,FD,1
+36,Female,Salaried,742846,Graduate,Tier-1,Yes,789,2,262391,High,Mutual Fund,1
+57,Female,Student,150734,Graduate,Tier-2,Yes,548,5,37344,Medium,Stocks,0
+42,Male,Business,1549091,Graduate,Tier-2,Yes,858,1,184638,High,Mutual Fund,1
+49,Female,Salaried,1197214,HSC,Tier-2,Yes,681,4,447916,Medium,FD,1
+34,Male,Salaried,1153159,Postgraduate,Tier-1,Yes,740,2,390721,High,FD,1
+48,Male,Retired,478872,Graduate,Tier-1,No,531,2,77407,Medium,Mutual Fund,0
+25,Male,Professional,1295596,HSC,Tier-2,No,834,1,386771,Low,FD,1
+50,Male,Salaried,608360,Graduate,Tier-2,Yes,721,2,297075,High,Mutual Fund,1
+25,Male,Professional,733977,Graduate,Tier-2,Yes,683,0,275046,Medium,None,0
+32,Female,Student,178755,Graduate,Tier-2,Yes,602,0,18466,High,None,0
+36,Female,Student,147856,Graduate,Tier-3,No,560,0,51958,Medium,None,0
+46,Female,Business,1008175,Graduate,Tier-1,Yes,796,2,440074,Low,Mutual Fund,1
+46,Female,Salaried,373870,Graduate,Tier-2,Yes,632,3,181695,Low,FD,0
+41,Male,Salaried,437080,Postgraduate,Tier-2,Yes,518,2,173090,Medium,Mutual Fund,0
+59,Female,Salaried,1094419,Graduate,Tier-2,Yes,825,3,146610,High,FD,1
+56,Male,Salaried,396502,Graduate,Tier-1,Yes,605,4,174696,Medium,Mutual Fund,1
+53,Female,Salaried,890611,Graduate,Tier-2,No,651,3,376317,High,FD,1
+50,Male,Salaried,732206,Graduate,Tier-3,Yes,670,4,46447,High,Mutual Fund,1
+57,Male,Business,2344881,Graduate,Tier-1,Yes,900,3,648268,High,FD,1
+43,Female,Business,1237902,Graduate,Tier-1,Yes,722,2,288582,Medium,FD,1
+30,Male,Salaried,778977,Postgraduate,Tier-1,Yes,714,2,325749,High,Mutual Fund,1
+25,Male,Salaried,991804,Graduate,Tier-3,Yes,761,1,167490,Medium,FD,1
+56,Female,Salaried,728556,Graduate,Tier-1,Yes,714,3,273193,Medium,Mutual Fund,1
+54,Male,Student,225219,Postgraduate,Tier-3,Yes,595,3,124380,Low,Mutual Fund,1
+51,Female,Professional,735468,Graduate,Tier-2,Yes,655,4,359490,Medium,FD,1
+30,Female,Salaried,1102121,Graduate,Tier-3,Yes,767,0,613662,Low,None,1
+39,Female,Salaried,934044,Graduate,Tier-3,Yes,710,1,549384,High,FD,1
+52,Male,Business,980350,Graduate,Tier-2,No,648,4,54770,Medium,FD,0
+21,Male,Business,996232,Postgraduate,Tier-1,No,702,0,391028,Medium,None,0
+25,Male,Business,2037031,Postgraduate,Tier-1,Yes,900,0,564383,High,FD,1
+24,Female,Salaried,562210,Postgraduate,Tier-1,Yes,757,0,293990,Medium,None,0
+36,Male,Salaried,938447,Graduate,Tier-2,No,776,0,176895,Medium,None,1
+44,Female,Salaried,1000606,Graduate,Tier-1,Yes,842,2,589923,Low,Mutual Fund,1
+36,Female,Salaried,831821,HSC,Tier-1,Yes,721,2,322363,High,Mutual Fund,1
+22,Male,Business,2274088,Graduate,Tier-2,No,900,0,1106220,Low,None,1
+48,Female,Professional,1275817,Graduate,Tier-3,Yes,900,4,123856,Medium,Mutual Fund,1
+52,Male,Business,1466540,Postgraduate,Tier-1,Yes,739,2,221303,Medium,Mutual Fund,1
+47,Male,Professional,650231,Graduate,Tier-1,No,693,2,303737,High,Mutual Fund,0
+40,Male,Salaried,312940,Graduate,Tier-1,Yes,617,3,19431,High,Mutual Fund,1
+44,Male,Business,880171,Graduate,Tier-3,Yes,700,3,439454,High,Mutual Fund,1
+32,Male,Salaried,841220,Graduate,Tier-2,Yes,747,2,48514,Low,FD,0
+55,Female,Salaried,526377,Graduate,Tier-1,Yes,657,3,216559,Medium,FD,0
+53,Female,Salaried,750043,Postgraduate,Tier-1,Yes,655,2,188112,Medium,FD,1
+53,Female,Salaried,324648,Graduate,Tier-1,Yes,613,3,125418,Low,FD,0
+57,Male,Salaried,332966,Postgraduate,Tier-1,No,688,5,144113,Medium,Mutual Fund,1
+32,Male,Retired,670993,Graduate,Tier-3,Yes,695,1,159938,Medium,FD,1
+23,Male,Salaried,555733,Postgraduate,Tier-3,Yes,698,0,60785,Medium,None,0
+21,Female,Salaried,463639,Postgraduate,Tier-2,Yes,626,0,40941,High,FD,0
+53,Male,Salaried,546331,Graduate,Tier-3,Yes,686,3,204281,Medium,FD,1
+60,Female,Professional,1334678,Graduate,Tier-1,Yes,744,3,448932,High,Mutual Fund,1
+30,Female,Salaried,342598,Postgraduate,Tier-2,No,588,0,156982,Medium,None,0
+49,Male,Business,690271,Graduate,Tier-3,Yes,681,4,228034,Medium,Mutual Fund,1
+33,Male,Salaried,707014,Postgraduate,Tier-2,Yes,614,1,199621,Medium,Mutual Fund,0
+32,Female,Business,1482868,Graduate,Tier-3,Yes,796,0,398814,Low,None,0
+51,Male,Salaried,1147516,Graduate,Tier-1,Yes,798,2,74067,Low,FD,1
+22,Female,Professional,1099597,Postgraduate,Tier-1,Yes,777,0,257917,Medium,None,1
+55,Male,Business,2269433,Postgraduate,Tier-1,Yes,900,3,1331728,High,FD,1
+43,Male,Salaried,955538,Graduate,Tier-2,Yes,705,3,506870,High,Mutual Fund,1
+37,Female,Student,137118,Postgraduate,Tier-2,No,580,2,31695,Low,Mutual Fund,1
+46,Male,Student,142616,Graduate,Tier-3,Yes,538,3,53236,High,FD,0
+28,Female,Salaried,431870,HSC,Tier-2,Yes,678,1,222850,High,FD,1
+49,Male,Salaried,569745,Graduate,Tier-3,Yes,735,2,166764,High,FD,0
+46,Female,Business,2360371,Graduate,Tier-3,Yes,900,2,141331,High,FD,1
+30,Female,Salaried,302795,Postgraduate,Tier-1,Yes,674,0,27548,Medium,None,0
+46,Male,Salaried,397462,Graduate,Tier-2,Yes,631,2,131447,Medium,FD,0
+54,Female,Salaried,738480,Graduate,Tier-1,Yes,746,4,430675,Medium,Mutual Fund,1
+27,Male,Salaried,665036,HSC,Tier-2,Yes,687,1,286806,Medium,FD,1
+24,Male,Professional,1783553,Graduate,Tier-3,Yes,845,1,158743,Medium,FD,1
+31,Male,Salaried,822904,Graduate,Tier-1,Yes,729,0,126849,High,None,1
+49,Female,Business,1813804,Postgraduate,Tier-2,Yes,853,3,860156,High,FD,1
+56,Female,Professional,1187163,Graduate,Tier-2,Yes,900,3,608767,High,Mutual Fund,1
+45,Male,Business,1680777,Postgraduate,Tier-2,Yes,866,1,655052,High,Mutual Fund,1
+41,Male,Professional,559094,Postgraduate,Tier-2,Yes,700,2,226115,High,FD,1
+56,Female,Salaried,563749,Graduate,Tier-2,Yes,662,4,36973,High,FD,1
+30,Male,Retired,327506,Postgraduate,Tier-1,Yes,541,0,165617,Low,FD,0
+57,Male,Salaried,1064601,Postgraduate,Tier-1,Yes,649,5,514789,Medium,Stocks,1
+29,Female,Student,164130,Graduate,Tier-1,Yes,627,0,31589,Medium,FD,0
+44,Male,Business,1446769,Graduate,Tier-2,Yes,900,3,636248,High,FD,1
+55,Female,Retired,413402,Graduate,Tier-1,Yes,588,5,69521,Medium,Stocks,1
+55,Male,Professional,1254901,Graduate,Tier-3,Yes,701,4,90580,High,Mutual Fund,1
+56,Female,Student,266259,Postgraduate,Tier-2,No,583,4,42767,Low,Stocks,1
+38,Male,Salaried,719007,Graduate,Tier-2,Yes,637,1,106589,Medium,Mutual Fund,0
+59,Male,Retired,602580,Postgraduate,Tier-2,Yes,631,5,142065,High,Mutual Fund,1
+52,Female,Salaried,501682,Graduate,Tier-2,Yes,686,4,140544,Low,Stocks,0
+44,Male,Professional,623034,HSC,Tier-3,Yes,671,1,205412,Medium,FD,1
+43,Female,Professional,909394,Postgraduate,Tier-1,Yes,682,1,283926,Medium,Mutual Fund,1
+52,Male,Salaried,923982,Graduate,Tier-1,Yes,770,2,183753,Medium,FD,1
+57,Female,Salaried,844061,Graduate,Tier-3,Yes,758,4,55745,High,Stocks,1
+32,Female,Salaried,1090671,Graduate,Tier-1,Yes,747,0,417515,Medium,None,0
+33,Female,Salaried,583007,HSC,Tier-1,Yes,674,0,156047,High,None,0
+43,Female,Professional,713559,Graduate,Tier-2,Yes,723,3,152894,Low,Mutual Fund,1
+45,Male,Salaried,368968,Graduate,Tier-1,Yes,649,1,194378,High,FD,0
+55,Male,Professional,893891,Graduate,Tier-2,Yes,731,5,411823,Medium,Mutual Fund,1
+50,Female,Student,180430,Postgraduate,Tier-1,Yes,672,4,94143,High,Stocks,1
+37,Female,Retired,500072,Graduate,Tier-3,No,684,1,161143,High,FD,0
+40,Female,Salaried,301515,Graduate,Tier-3,No,583,1,36788,Medium,Mutual Fund,0
+45,Male,Student,217206,Graduate,Tier-2,Yes,566,1,94033,High,FD,0
+42,Male,Student,265677,Postgraduate,Tier-2,Yes,569,3,43395,High,Mutual Fund,1
+33,Male,Business,1342672,Graduate,Tier-3,Yes,856,1,392968,Medium,FD,1
+39,Male,Business,505586,Graduate,Tier-1,No,613,2,43354,Low,FD,0
+56,Female,Professional,1418725,HSC,Tier-3,Yes,808,3,714923,High,FD,1
+32,Female,Student,240419,HSC,Tier-3,Yes,661,2,28674,High,FD,0
+39,Female,Student,242374,Postgraduate,Tier-2,Yes,609,1,132506,Medium,FD,1
+32,Male,Salaried,1069565,Postgraduate,Tier-2,Yes,835,0,561871,Medium,None,0
+29,Male,Salaried,855474,Graduate,Tier-1,Yes,768,0,261364,High,FD,1
+27,Male,Salaried,851216,Graduate,Tier-2,Yes,649,0,391050,High,None,0
+48,Female,Retired,479336,Graduate,Tier-3,Yes,639,4,187274,High,Mutual Fund,1
+34,Female,Retired,464159,Postgraduate,Tier-1,Yes,702,1,228223,Medium,FD,0
+51,Male,Retired,635134,Postgraduate,Tier-3,Yes,603,2,182596,High,Mutual Fund,1
+39,Female,Professional,1797749,Graduate,Tier-1,Yes,900,1,866864,Medium,FD,1
+36,Male,Salaried,844999,Postgraduate,Tier-1,Yes,716,0,257176,Medium,None,1
+25,Male,Salaried,879250,Postgraduate,Tier-1,Yes,620,0,499001,High,None,1
+55,Female,Salaried,320039,Graduate,Tier-1,Yes,621,4,101613,High,Mutual Fund,1
+32,Male,Professional,606555,Graduate,Tier-2,Yes,621,1,184659,Medium,FD,0
+45,Female,Student,121577,Graduate,Tier-1,Yes,504,2,58574,Medium,Mutual Fund,0
+41,Male,Salaried,407792,Postgraduate,Tier-3,No,632,2,204657,High,FD,0
+56,Female,Student,279422,Postgraduate,Tier-2,Yes,500,3,99186,Medium,Mutual Fund,1
+43,Female,Salaried,1072268,Postgraduate,Tier-1,Yes,723,3,159648,High,FD,1
+36,Female,Professional,1687116,Postgraduate,Tier-2,Yes,900,1,518395,High,Mutual Fund,1
+59,Male,Professional,1351302,Graduate,Tier-3,No,859,4,787052,Low,Stocks,1
+59,Male,Salaried,528506,Postgraduate,Tier-2,Yes,602,3,245302,High,FD,0
+34,Female,Retired,462489,Postgraduate,Tier-1,Yes,726,0,229459,High,None,0
+51,Female,Business,510785,Graduate,Tier-3,Yes,592,2,34760,High,Mutual Fund,1
+25,Male,Student,192227,Graduate,Tier-3,Yes,555,0,59075,High,None,0
+55,Male,Salaried,1148389,Postgraduate,Tier-1,Yes,710,5,465834,High,Mutual Fund,1
+43,Male,Salaried,889719,HSC,Tier-1,Yes,743,3,450658,Low,Mutual Fund,1
+49,Female,Student,268369,Postgraduate,Tier-2,Yes,685,3,20691,Medium,Mutual Fund,1
+31,Male,Retired,584038,Graduate,Tier-1,Yes,606,2,303023,High,FD,0
+38,Male,Salaried,547941,Graduate,Tier-3,Yes,535,2,192667,Medium,Mutual Fund,0
+32,Female,Professional,550653,Postgraduate,Tier-2,Yes,725,1,87290,Low,FD,0
+29,Male,Salaried,617336,Graduate,Tier-3,Yes,766,1,138585,High,FD,1
+30,Male,Salaried,563606,Graduate,Tier-2,Yes,543,1,115573,High,Mutual Fund,1
+37,Male,Salaried,690992,Graduate,Tier-1,Yes,715,0,236300,Low,None,0
+58,Female,Student,266583,Postgraduate,Tier-1,Yes,616,4,20907,High,FD,0
+27,Female,Salaried,638250,HSC,Tier-2,Yes,630,0,87564,High,None,0
+33,Female,Professional,1759385,Postgraduate,Tier-3,Yes,818,2,874381,Medium,Mutual Fund,1
+60,Female,Salaried,999774,Graduate,Tier-3,No,809,5,122904,High,Stocks,1
+29,Female,Business,1891730,Postgraduate,Tier-1,Yes,900,0,337423,Medium,FD,1
+47,Female,Salaried,896861,Postgraduate,Tier-1,Yes,744,2,268478,Low,Mutual Fund,1
+22,Female,Student,227803,Graduate,Tier-1,Yes,558,0,76181,Medium,None,0
+25,Male,Student,239682,Graduate,Tier-2,Yes,549,1,112647,Medium,FD,0
+49,Male,Salaried,837674,Graduate,Tier-1,Yes,570,3,247979,Medium,Mutual Fund,1
+57,Female,Student,244069,Graduate,Tier-2,Yes,585,4,118233,High,Mutual Fund,0
+58,Male,Salaried,354460,HSC,Tier-2,Yes,707,3,138271,High,Mutual Fund,1
+39,Male,Salaried,699437,HSC,Tier-3,Yes,636,3,78480,High,Mutual Fund,1
+28,Female,Salaried,716690,HSC,Tier-1,Yes,601,0,97457,High,None,0
+21,Male,Salaried,415375,Graduate,Tier-1,Yes,659,0,120611,Low,FD,0
+42,Male,Salaried,1199092,Graduate,Tier-2,Yes,827,2,321703,Low,Mutual Fund,1
+37,Male,Professional,552117,Graduate,Tier-2,Yes,625,0,253393,High,None,0
+27,Male,Business,1377751,Postgraduate,Tier-1,Yes,804,0,508948,Low,FD,0
+45,Male,Salaried,416582,Graduate,Tier-3,Yes,649,2,109758,Medium,FD,0
+24,Female,Student,255994,Graduate,Tier-3,No,591,1,36842,High,FD,0
+56,Female,Retired,493015,Graduate,Tier-1,No,708,5,86159,Medium,Mutual Fund,1
+26,Female,Business,1178066,Postgraduate,Tier-1,Yes,900,0,431791,High,FD,1
+51,Male,Salaried,1129203,Postgraduate,Tier-2,Yes,673,4,319441,Medium,Stocks,1
+39,Female,Professional,452949,Postgraduate,Tier-3,Yes,714,1,150927,Low,Mutual Fund,1
+59,Male,Salaried,763930,Postgraduate,Tier-1,Yes,709,5,109908,Medium,Stocks,1
+47,Male,Salaried,395558,HSC,Tier-2,Yes,712,3,163997,High,FD,1
+30,Male,Business,1957032,Postgraduate,Tier-2,Yes,900,2,1015496,Medium,Mutual Fund,1
+46,Male,Salaried,1188704,Postgraduate,Tier-1,Yes,791,2,228072,Medium,Mutual Fund,1
+39,Female,Retired,514860,Graduate,Tier-2,Yes,698,1,164926,High,FD,0
+59,Female,Business,1696222,Postgraduate,Tier-3,Yes,865,5,994902,High,FD,1
+23,Male,Salaried,1067175,HSC,Tier-1,Yes,716,0,248953,Medium,FD,1
+33,Female,Salaried,766933,Graduate,Tier-1,Yes,752,0,289345,Medium,FD,0
+48,Male,Student,295138,Graduate,Tier-2,Yes,558,2,29397,Medium,Mutual Fund,0
+40,Female,Salaried,1017186,Graduate,Tier-3,Yes,791,1,389895,High,Mutual Fund,1
+48,Female,Business,2224149,Postgraduate,Tier-3,Yes,900,2,220852,High,Mutual Fund,1
+28,Male,Salaried,371916,Graduate,Tier-2,Yes,500,0,214811,Medium,None,0
+59,Female,Salaried,1021511,Graduate,Tier-3,Yes,719,4,453157,High,Mutual Fund,1
+21,Male,Business,1808166,Graduate,Tier-2,Yes,900,0,874226,Medium,None,0
+23,Female,Student,170906,Postgraduate,Tier-2,Yes,559,0,74729,Low,None,0
+33,Male,Business,2335471,HSC,Tier-1,Yes,864,1,874285,Low,Mutual Fund,1
+48,Male,Student,283045,Graduate,Tier-1,Yes,685,2,84192,Medium,Mutual Fund,0
+45,Female,Retired,324694,Postgraduate,Tier-1,Yes,625,2,169524,Medium,Mutual Fund,0
+53,Female,Salaried,713867,Postgraduate,Tier-2,Yes,719,2,411372,Low,FD,1
+58,Male,Salaried,1155126,Graduate,Tier-1,Yes,752,4,374803,High,FD,1
+26,Female,Salaried,582152,Postgraduate,Tier-3,Yes,698,0,327369,Medium,None,0
+52,Female,Salaried,370474,Postgraduate,Tier-1,Yes,734,2,137384,High,FD,0
+41,Male,Business,2111049,Postgraduate,Tier-1,No,900,2,730657,Medium,FD,1
+36,Male,Business,850068,Graduate,Tier-2,Yes,820,1,254991,Low,Mutual Fund,1
+41,Female,Business,1810624,Graduate,Tier-2,Yes,900,3,298948,Medium,FD,1
+31,Male,Student,154980,Graduate,Tier-1,Yes,528,2,8066,Medium,FD,0
+57,Male,Salaried,846792,Graduate,Tier-1,No,852,5,154817,Medium,Mutual Fund,1
+56,Male,Student,174970,Graduate,Tier-3,Yes,608,4,57800,Low,Mutual Fund,0
+55,Female,Salaried,578910,HSC,Tier-1,Yes,706,4,149924,Medium,FD,1
+39,Female,Professional,1041232,Graduate,Tier-1,Yes,742,1,308899,Low,Mutual Fund,1
+40,Male,Salaried,1180354,Graduate,Tier-3,Yes,738,3,695649,High,Mutual Fund,1
+38,Female,Salaried,704911,Graduate,Tier-1,Yes,701,1,171046,High,FD,1
+34,Male,Salaried,711012,Postgraduate,Tier-2,Yes,787,0,212379,Low,None,1
+35,Female,Professional,1622191,Graduate,Tier-2,Yes,855,0,200232,Medium,FD,1
+51,Male,Business,2480639,HSC,Tier-1,Yes,900,2,189463,Low,Mutual Fund,1
+21,Male,Professional,1569070,Postgraduate,Tier-1,Yes,900,0,747622,High,None,0
+23,Female,Salaried,1059229,HSC,Tier-1,Yes,743,0,385427,Medium,None,1
+36,Male,Salaried,833090,Postgraduate,Tier-1,Yes,747,1,390209,Medium,FD,1
+43,Female,Professional,571277,Postgraduate,Tier-1,Yes,716,2,75651,Medium,Mutual Fund,0
+31,Female,Business,991966,Graduate,Tier-3,Yes,736,1,361577,High,FD,1
+32,Male,Salaried,596303,Postgraduate,Tier-2,Yes,687,2,113001,Medium,FD,0
+30,Male,Business,1560092,Graduate,Tier-2,Yes,900,0,273693,High,None,0
+52,Female,Professional,1761212,Graduate,Tier-3,Yes,878,4,99225,Medium,Mutual Fund,1
+36,Male,Business,1315518,HSC,Tier-2,Yes,862,0,160081,High,None,1
+28,Male,Business,2186622,Graduate,Tier-1,Yes,900,1,481269,High,Mutual Fund,1
+58,Male,Salaried,854768,Postgraduate,Tier-3,Yes,680,5,97685,Medium,Mutual Fund,1
+32,Male,Salaried,483163,Graduate,Tier-1,Yes,555,0,286139,High,FD,0
+44,Male,Salaried,428023,Graduate,Tier-1,Yes,605,3,94057,Medium,FD,1
+48,Female,Professional,772339,Graduate,Tier-3,No,655,2,93976,High,Mutual Fund,1
+28,Female,Professional,1627414,Graduate,Tier-2,Yes,851,0,259564,High,None,1
+48,Male,Professional,1225169,HSC,Tier-2,Yes,831,3,457278,Low,FD,1
+56,Male,Student,129265,Graduate,Tier-1,Yes,500,4,11016,High,Mutual Fund,0
+46,Male,Business,1138453,Postgraduate,Tier-2,Yes,659,4,596935,Medium,Mutual Fund,1
+28,Female,Business,1143789,Graduate,Tier-1,Yes,733,0,662053,Medium,FD,1
+48,Male,Business,2322193,Graduate,Tier-3,Yes,900,2,431256,Medium,FD,1
+48,Female,Business,1881710,HSC,Tier-1,Yes,900,3,559907,High,FD,1
+57,Female,Professional,894670,Graduate,Tier-3,Yes,683,4,55625,Medium,Mutual Fund,0
+56,Female,Salaried,1101818,Postgraduate,Tier-2,Yes,840,5,443361,Low,Mutual Fund,1
+47,Male,Salaried,1191150,HSC,Tier-3,Yes,748,2,330733,High,FD,1
+37,Female,Salaried,1123857,Graduate,Tier-2,Yes,802,2,223121,Low,Mutual Fund,1
+29,Male,Salaried,421635,Graduate,Tier-2,Yes,612,1,69047,Low,Mutual Fund,0
+53,Female,Business,1198614,Postgraduate,Tier-1,Yes,737,2,491087,Medium,Mutual Fund,1
+40,Male,Professional,620935,Graduate,Tier-1,Yes,637,3,173190,Medium,Mutual Fund,1
+33,Female,Salaried,811566,Graduate,Tier-1,Yes,756,0,120771,Medium,None,1
+48,Male,Salaried,353634,Postgraduate,Tier-3,Yes,642,3,151712,Low,Mutual Fund,0
+49,Female,Business,1504221,Graduate,Tier-3,Yes,900,2,542707,High,FD,1
+33,Male,Student,298734,Postgraduate,Tier-2,Yes,631,0,156019,High,None,0
+55,Male,Salaried,1173420,Postgraduate,Tier-1,Yes,688,3,134487,Medium,FD,1
+26,Male,Student,226337,Graduate,Tier-2,Yes,722,1,109120,Medium,Mutual Fund,0
+38,Male,Salaried,792503,Graduate,Tier-2,Yes,731,1,333195,Medium,Mutual Fund,1
+25,Female,Salaried,518599,HSC,Tier-2,Yes,684,0,58734,High,FD,0
+45,Female,Salaried,537919,Graduate,Tier-3,Yes,634,1,232462,Low,Mutual Fund,1
+22,Male,Salaried,768668,Postgraduate,Tier-3,Yes,770,0,225105,Low,FD,1
+30,Female,Professional,803359,Graduate,Tier-1,Yes,645,0,457707,High,FD,0
+50,Male,Salaried,784607,Graduate,Tier-2,Yes,743,4,100340,Medium,Mutual Fund,1
+25,Male,Business,2481661,Postgraduate,Tier-2,Yes,900,0,1001495,Medium,None,1
+53,Female,Student,187443,Graduate,Tier-1,Yes,628,2,48751,High,FD,0
+21,Male,Salaried,591568,HSC,Tier-1,Yes,603,0,340889,High,None,0
+38,Male,Business,1899564,Graduate,Tier-1,Yes,900,1,439722,Medium,Mutual Fund,1
+52,Female,Student,161984,Graduate,Tier-3,Yes,663,4,93821,High,Mutual Fund,1
+31,Male,Salaried,341505,Postgraduate,Tier-2,Yes,667,0,186399,Low,None,0
+41,Male,Salaried,402478,HSC,Tier-2,Yes,703,3,79976,High,Mutual Fund,1
+46,Male,Business,1611275,Graduate,Tier-3,Yes,900,3,792663,Medium,Mutual Fund,1
+45,Male,Student,278029,Graduate,Tier-3,Yes,574,1,166145,High,FD,0
+42,Female,Salaried,718680,Graduate,Tier-1,Yes,729,2,135805,High,FD,1
+47,Female,Business,1400444,Graduate,Tier-2,Yes,726,2,406447,High,FD,1
+33,Female,Salaried,454721,Graduate,Tier-2,Yes,599,2,152831,High,FD,0
+53,Male,Business,1510165,Graduate,Tier-3,Yes,900,3,320475,Medium,Mutual Fund,1
+54,Male,Business,1321190,Postgraduate,Tier-2,Yes,791,3,77151,Medium,Mutual Fund,1
+55,Female,Retired,386668,Graduate,Tier-2,No,515,5,66147,Medium,Mutual Fund,1
+21,Male,Salaried,578518,HSC,Tier-1,Yes,786,0,118633,High,FD,1
+41,Male,Professional,1042974,Graduate,Tier-3,Yes,792,1,306613,High,Mutual Fund,0
+26,Male,Salaried,565919,Postgraduate,Tier-1,Yes,709,0,81552,Medium,None,0
+48,Male,Salaried,1113820,Postgraduate,Tier-1,Yes,713,2,590647,High,Mutual Fund,1
+37,Female,Salaried,685944,Graduate,Tier-1,Yes,704,2,300238,High,FD,1
+25,Female,Business,1307461,Postgraduate,Tier-1,Yes,826,1,126641,High,FD,1
+51,Female,Salaried,908269,Graduate,Tier-1,Yes,682,3,370165,High,FD,1
+25,Male,Salaried,615783,Graduate,Tier-3,Yes,662,0,252169,Medium,None,0
+58,Female,Student,234010,Graduate,Tier-3,No,506,3,134771,Low,FD,0
+23,Female,Professional,923472,HSC,Tier-1,Yes,713,1,47707,Low,FD,1
+43,Male,Business,906884,Postgraduate,Tier-1,Yes,789,1,169009,Medium,Mutual Fund,1
+57,Male,Business,759021,HSC,Tier-1,No,656,5,425268,High,Stocks,1
+57,Female,Salaried,447032,HSC,Tier-1,Yes,753,4,251533,High,Mutual Fund,1
+30,Female,Salaried,950807,Postgraduate,Tier-1,Yes,653,0,424366,High,None,1
+30,Female,Business,1691005,Graduate,Tier-3,Yes,872,0,796750,High,FD,1
+39,Female,Salaried,757820,HSC,Tier-1,Yes,662,3,76021,Low,FD,1
+37,Male,Salaried,1189171,HSC,Tier-2,No,777,2,395555,Low,Mutual Fund,1
+41,Female,Business,1862516,HSC,Tier-1,No,900,3,330355,Low,Mutual Fund,1
+34,Female,Retired,527948,Graduate,Tier-3,Yes,596,1,79017,Medium,FD,0
+29,Male,Business,2200596,Graduate,Tier-2,Yes,900,0,1090762,Medium,None,0
+21,Female,Business,1533237,Graduate,Tier-3,Yes,895,0,190536,Low,None,1
+33,Male,Retired,395698,HSC,Tier-3,Yes,634,1,121779,Medium,FD,0
+24,Male,Salaried,459204,Postgraduate,Tier-1,Yes,652,1,260009,Low,FD,0
+21,Male,Salaried,1094383,Graduate,Tier-1,Yes,710,0,166573,High,None,1
+60,Female,Retired,649665,Graduate,Tier-2,No,675,5,381935,Medium,FD,1
+52,Female,Salaried,581209,Graduate,Tier-2,No,734,2,346899,Medium,Mutual Fund,1
+54,Male,Business,1387935,Graduate,Tier-2,Yes,731,4,493535,Medium,Mutual Fund,1
+48,Female,Salaried,405072,Graduate,Tier-1,Yes,589,3,58159,High,FD,1
+51,Female,Salaried,964490,Graduate,Tier-1,Yes,633,4,215908,Medium,FD,0
+28,Male,Business,589360,Graduate,Tier-2,Yes,700,0,167066,Medium,None,0
+59,Male,Professional,462287,Postgraduate,Tier-2,Yes,715,3,101762,High,FD,1
+46,Female,Professional,1686585,HSC,Tier-3,Yes,876,2,344652,High,Mutual Fund,1
+54,Male,Student,288065,Postgraduate,Tier-1,Yes,547,5,168439,High,Mutual Fund,1
+23,Female,Professional,1087235,HSC,Tier-2,Yes,708,0,146070,Medium,None,1
+32,Female,Salaried,1070644,Postgraduate,Tier-1,Yes,746,0,485355,Medium,None,0
+21,Female,Salaried,961414,Graduate,Tier-1,No,724,0,48287,Low,None,0
+25,Female,Salaried,530881,Postgraduate,Tier-2,Yes,710,0,200620,High,None,1
+50,Male,Salaried,407357,HSC,Tier-1,Yes,591,4,225581,Medium,Stocks,1
+50,Male,Salaried,741733,Graduate,Tier-1,Yes,724,4,154550,Low,Mutual Fund,1
+37,Male,Retired,457440,Graduate,Tier-1,Yes,623,0,69548,Medium,None,1
+43,Male,Business,1053958,Postgraduate,Tier-1,No,716,1,430461,Medium,Mutual Fund,1
+35,Female,Business,2384120,Graduate,Tier-1,Yes,900,1,1053615,Low,FD,1
+57,Female,Student,208388,Graduate,Tier-1,Yes,611,4,89276,High,Mutual Fund,1
+41,Male,Professional,1799876,Graduate,Tier-1,Yes,900,1,406095,High,Mutual Fund,1
+34,Female,Professional,1607955,Graduate,Tier-1,Yes,856,0,303439,Low,None,1
+22,Female,Professional,1168447,Graduate,Tier-2,Yes,711,0,672739,Medium,None,1
+31,Female,Student,167922,HSC,Tier-1,Yes,643,1,93669,High,Mutual Fund,1
+59,Male,Student,213348,Postgraduate,Tier-1,Yes,538,3,64329,Medium,Mutual Fund,0
+58,Male,Salaried,903623,Postgraduate,Tier-1,Yes,746,5,465733,Medium,Stocks,1
+54,Male,Salaried,1112744,Postgraduate,Tier-2,Yes,771,5,332463,Medium,Mutual Fund,1
+58,Female,Salaried,366985,Graduate,Tier-3,Yes,613,3,104008,High,Mutual Fund,1
+54,Male,Professional,1375112,Postgraduate,Tier-3,Yes,795,3,187317,High,Mutual Fund,1
+38,Male,Salaried,783178,Postgraduate,Tier-2,Yes,743,2,222832,High,FD,1
+50,Male,Student,220963,Graduate,Tier-2,Yes,500,3,76360,Low,FD,0
+35,Male,Salaried,471349,Graduate,Tier-2,Yes,712,2,29401,Medium,Mutual Fund,0
+47,Male,Student,151551,Graduate,Tier-2,Yes,525,2,44595,High,Mutual Fund,1
+54,Male,Student,209813,Postgraduate,Tier-1,Yes,616,4,100656,Low,FD,0
+58,Female,Salaried,749813,Graduate,Tier-1,Yes,721,5,317939,High,Stocks,1
+53,Female,Salaried,1187457,HSC,Tier-1,Yes,863,4,474194,High,FD,1
+44,Male,Professional,1458213,Graduate,Tier-3,Yes,853,3,802389,Low,Mutual Fund,1
+35,Male,Retired,555402,Postgraduate,Tier-2,Yes,611,1,33278,High,Mutual Fund,1
+50,Female,Salaried,953841,Postgraduate,Tier-2,Yes,644,3,339926,Medium,Mutual Fund,0
+37,Female,Salaried,851238,Postgraduate,Tier-1,Yes,699,0,411183,High,None,1
+25,Male,Professional,816704,Graduate,Tier-2,Yes,595,0,283996,Medium,None,0
+49,Male,Salaried,952158,Graduate,Tier-1,Yes,702,4,217227,Medium,Mutual Fund,1
+24,Male,Salaried,797760,Graduate,Tier-1,Yes,691,1,99670,High,FD,0
+30,Male,Professional,400215,Graduate,Tier-3,Yes,588,1,215379,High,FD,0
+37,Female,Student,225603,HSC,Tier-2,Yes,597,1,69693,Low,Mutual Fund,0
+30,Male,Business,1297955,Graduate,Tier-1,No,795,0,691762,High,None,1
+37,Male,Salaried,1155121,Graduate,Tier-3,Yes,761,0,429957,Low,None,0
+40,Male,Salaried,323834,Graduate,Tier-1,Yes,500,1,136271,Medium,Mutual Fund,0
+44,Male,Salaried,596618,Postgraduate,Tier-3,Yes,591,2,293741,Medium,Mutual Fund,0
+25,Female,Business,2115930,Graduate,Tier-1,Yes,900,1,872896,Medium,Mutual Fund,1
+54,Female,Student,130400,Postgraduate,Tier-1,Yes,624,3,35068,Medium,Mutual Fund,1
+26,Female,Salaried,834633,Graduate,Tier-1,Yes,606,0,277514,Low,None,0
+22,Male,Business,1582472,Graduate,Tier-1,Yes,817,0,778061,Low,FD,1
+33,Male,Salaried,778646,Graduate,Tier-1,Yes,770,0,198950,Low,FD,0
+31,Female,Salaried,1115331,HSC,Tier-2,Yes,729,2,293852,Medium,FD,1
+43,Male,Professional,1214661,Graduate,Tier-3,Yes,786,2,124660,High,FD,0
+36,Male,Salaried,810269,Graduate,Tier-3,Yes,798,0,448096,Low,None,1
+51,Female,Professional,1716303,HSC,Tier-1,Yes,871,2,171750,High,FD,1
+31,Female,Professional,1322401,Graduate,Tier-2,Yes,784,1,537575,High,Mutual Fund,1
+36,Female,Business,1013622,Graduate,Tier-1,Yes,743,1,281033,High,Mutual Fund,1
+28,Female,Salaried,371537,Postgraduate,Tier-1,Yes,735,0,101463,High,None,0
+24,Male,Retired,490489,Postgraduate,Tier-2,Yes,674,1,207846,High,Mutual Fund,0
+60,Male,Salaried,697783,Postgraduate,Tier-2,Yes,690,4,60638,Low,FD,1
+24,Female,Business,2147671,HSC,Tier-1,Yes,900,1,808680,Medium,Mutual Fund,1
+45,Male,Salaried,953936,Postgraduate,Tier-1,Yes,773,1,452754,High,FD,1
+23,Female,Salaried,1199084,Postgraduate,Tier-3,Yes,829,1,606157,High,Mutual Fund,1
+52,Female,Salaried,770455,Graduate,Tier-1,Yes,639,2,110785,High,FD,1
+23,Male,Retired,394401,Postgraduate,Tier-2,Yes,670,0,214388,Low,FD,0
+47,Female,Retired,482117,Graduate,Tier-2,Yes,637,2,198092,High,FD,0
+49,Male,Salaried,1073068,Postgraduate,Tier-1,Yes,766,2,574112,Medium,FD,1
+52,Male,Student,191792,Postgraduate,Tier-1,Yes,535,4,60779,Medium,FD,0
+39,Male,Business,1942020,HSC,Tier-2,Yes,900,1,676052,Medium,Mutual Fund,1
+41,Male,Salaried,513286,Graduate,Tier-3,Yes,590,1,285115,High,Mutual Fund,1
+25,Female,Student,157052,Postgraduate,Tier-2,Yes,516,1,85585,High,FD,0
+38,Male,Business,950985,HSC,Tier-2,Yes,762,2,281956,Medium,Mutual Fund,1
+48,Female,Salaried,346032,Graduate,Tier-3,Yes,597,4,69527,High,Mutual Fund,0
+42,Female,Retired,545830,Postgraduate,Tier-3,Yes,581,3,145323,Medium,Mutual Fund,1
+41,Female,Salaried,1163413,Graduate,Tier-2,Yes,900,3,306292,Low,Mutual Fund,1
+26,Female,Salaried,923090,Graduate,Tier-2,Yes,667,0,191796,Low,None,1
+21,Male,Salaried,534337,Graduate,Tier-2,Yes,722,0,105648,Low,None,0
+25,Male,Professional,1621433,Graduate,Tier-2,Yes,785,0,848957,Medium,FD,1
+32,Female,Salaried,729763,Graduate,Tier-2,Yes,723,1,64528,Medium,Mutual Fund,1
+46,Female,Business,804962,HSC,Tier-2,No,695,2,340246,High,Mutual Fund,0
+54,Male,Salaried,1186854,Graduate,Tier-1,Yes,749,4,172154,High,Stocks,1
+34,Female,Professional,1782647,Graduate,Tier-2,Yes,900,0,426905,Low,None,1
+46,Male,Salaried,1021041,Postgraduate,Tier-1,Yes,757,4,85612,Medium,Stocks,1
+47,Female,Salaried,641609,Graduate,Tier-1,Yes,629,2,127350,Medium,FD,1
+29,Male,Business,2293798,Graduate,Tier-1,Yes,900,0,1084121,Medium,FD,1
+46,Female,Salaried,1050887,Graduate,Tier-2,Yes,665,3,564072,Low,FD,0
+42,Female,Student,233221,HSC,Tier-2,Yes,614,1,40076,Low,Mutual Fund,0
+50,Male,Professional,699477,Graduate,Tier-1,Yes,614,4,213306,High,Mutual Fund,1
+37,Female,Salaried,426457,Graduate,Tier-2,Yes,635,0,131637,High,None,0
+46,Female,Business,1827296,Postgraduate,Tier-2,Yes,900,2,969319,Low,FD,1
+56,Male,Salaried,419875,HSC,Tier-1,Yes,646,3,197147,Medium,Mutual Fund,1
+21,Female,Professional,1280432,Graduate,Tier-2,Yes,762,0,425349,Medium,FD,1
+28,Male,Student,151601,Graduate,Tier-3,Yes,634,0,63507,High,None,0
+55,Male,Salaried,1154378,Graduate,Tier-3,Yes,756,5,595711,Medium,Stocks,1
+35,Female,Retired,564260,HSC,Tier-2,Yes,582,1,31173,Low,Mutual Fund,0
+42,Female,Professional,1028474,Graduate,Tier-2,No,738,2,279322,High,FD,1
+34,Female,Salaried,1149326,Graduate,Tier-1,Yes,815,1,630961,Medium,FD,1
+46,Female,Salaried,989995,Postgraduate,Tier-1,Yes,707,4,452598,Medium,Stocks,1
+48,Female,Professional,1677623,Graduate,Tier-1,Yes,900,2,584756,Medium,Mutual Fund,1
+43,Female,Salaried,392850,Graduate,Tier-3,Yes,582,1,134081,Medium,Mutual Fund,0
+34,Female,Business,1396197,Graduate,Tier-1,Yes,791,0,336865,Medium,None,1
+44,Male,Business,2289055,Graduate,Tier-1,Yes,900,1,769777,Medium,FD,1
+22,Female,Student,212691,Graduate,Tier-3,Yes,633,0,87301,Medium,None,0
+46,Male,Salaried,863159,Graduate,Tier-3,No,719,4,241770,Low,FD,1
+34,Female,Business,1742522,Graduate,Tier-3,Yes,839,2,771561,High,FD,1
+27,Female,Salaried,770949,HSC,Tier-1,Yes,680,1,403728,Low,Mutual Fund,0
+23,Male,Salaried,1115943,Graduate,Tier-1,Yes,588,1,150737,Low,Mutual Fund,0
+43,Female,Retired,593104,HSC,Tier-2,Yes,715,3,176953,High,FD,1
+38,Female,Salaried,1152208,Graduate,Tier-1,No,770,3,316178,High,FD,1
+58,Male,Business,1797776,Graduate,Tier-1,Yes,765,5,769638,High,Mutual Fund,1
+55,Female,Salaried,1025527,Graduate,Tier-2,Yes,667,3,192211,Medium,Mutual Fund,1
+35,Female,Salaried,606606,Postgraduate,Tier-3,Yes,646,1,243939,Medium,Mutual Fund,1
+45,Female,Student,152574,HSC,Tier-1,Yes,501,3,81263,High,Mutual Fund,1
+57,Male,Salaried,926360,Postgraduate,Tier-2,Yes,782,4,259355,High,Mutual Fund,1
+48,Female,Salaried,735126,Graduate,Tier-2,Yes,722,4,405097,Medium,Stocks,1
+30,Female,Salaried,504603,Graduate,Tier-1,Yes,672,2,300864,High,FD,1
+59,Female,Professional,1134172,HSC,Tier-2,Yes,620,3,122888,Low,FD,0
+37,Female,Salaried,1040885,Graduate,Tier-1,Yes,726,1,185464,High,FD,1
+59,Male,Salaried,1164714,Graduate,Tier-1,Yes,741,3,667042,High,Mutual Fund,1
+42,Male,Salaried,409779,Postgraduate,Tier-2,No,574,1,236475,High,Mutual Fund,0
+46,Female,Student,138557,Graduate,Tier-1,Yes,552,3,14373,High,Mutual Fund,1
+45,Female,Salaried,459132,Postgraduate,Tier-3,Yes,574,1,26744,High,FD,0
+37,Male,Salaried,752082,Graduate,Tier-1,Yes,713,2,104242,Low,FD,1
+33,Male,Salaried,634248,Postgraduate,Tier-2,Yes,722,2,379157,Medium,FD,1
+40,Female,Student,257152,Graduate,Tier-2,Yes,642,3,38315,Low,FD,1
+45,Male,Salaried,444926,Postgraduate,Tier-1,No,630,3,145224,Medium,Mutual Fund,1
+24,Female,Business,2457021,Graduate,Tier-1,Yes,900,1,1269370,High,Mutual Fund,1
+30,Male,Salaried,1023055,Graduate,Tier-2,Yes,823,0,62632,Medium,FD,1
+23,Male,Salaried,982385,Graduate,Tier-3,Yes,740,0,375731,Medium,None,1
+38,Male,Business,1732630,Postgraduate,Tier-3,Yes,867,3,350621,High,Mutual Fund,1
+56,Male,Salaried,865369,Graduate,Tier-2,No,803,5,453699,High,Mutual Fund,1
+42,Female,Professional,1321872,Postgraduate,Tier-3,Yes,874,1,272178,Low,FD,1
+54,Male,Salaried,1054981,HSC,Tier-2,No,676,4,451231,Medium,Mutual Fund,1
+28,Male,Salaried,681325,Postgraduate,Tier-2,Yes,751,0,286715,Low,None,0
+60,Female,Salaried,1113526,Postgraduate,Tier-2,No,763,3,191327,High,Mutual Fund,1
+39,Male,Salaried,628910,Postgraduate,Tier-2,Yes,624,1,43482,Low,FD,0
+57,Male,Business,2418061,Graduate,Tier-3,Yes,900,3,665177,High,FD,1
+26,Female,Salaried,455063,Graduate,Tier-2,Yes,624,0,95133,Medium,None,0
+46,Male,Professional,1083970,Postgraduate,Tier-3,Yes,766,3,536497,Low,Mutual Fund,1
+54,Female,Salaried,905751,Graduate,Tier-2,Yes,826,5,443999,High,Mutual Fund,1
+26,Female,Salaried,990038,Graduate,Tier-1,Yes,805,1,298360,Low,Mutual Fund,1
+57,Female,Salaried,586610,Graduate,Tier-1,Yes,632,4,225012,Medium,Stocks,1
+53,Female,Student,291947,Postgraduate,Tier-2,Yes,631,4,111623,Low,Mutual Fund,1
+42,Male,Salaried,326081,Graduate,Tier-2,Yes,664,3,164650,Medium,Mutual Fund,0
+41,Female,Business,1572930,Graduate,Tier-3,Yes,869,3,446320,Medium,Mutual Fund,1
+26,Male,Professional,1017585,Postgraduate,Tier-1,Yes,718,0,205038,Medium,None,1
+26,Male,Salaried,1104732,HSC,Tier-3,Yes,739,0,216272,Low,FD,1
+24,Male,Professional,1512960,Postgraduate,Tier-3,Yes,875,1,521828,Medium,FD,1
+50,Male,Retired,607171,HSC,Tier-1,Yes,696,4,180348,High,FD,1
+31,Male,Professional,1247324,Graduate,Tier-3,Yes,781,2,364301,High,Mutual Fund,1
+50,Male,Student,155525,HSC,Tier-3,No,500,2,15572,Medium,Mutual Fund,0
+51,Male,Business,1444036,HSC,Tier-2,Yes,761,2,642931,High,Mutual Fund,1
+44,Male,Salaried,306464,Postgraduate,Tier-3,Yes,648,1,51349,Medium,Mutual Fund,0
+29,Male,Retired,266562,Graduate,Tier-3,Yes,500,0,42203,Medium,FD,0
+23,Male,Salaried,1193824,Graduate,Tier-2,Yes,859,1,330709,Low,Mutual Fund,1
+51,Female,Salaried,879802,Graduate,Tier-1,Yes,788,3,154210,Medium,Mutual Fund,1
+60,Female,Business,875572,Graduate,Tier-3,Yes,727,4,324944,Medium,Mutual Fund,1
+57,Female,Salaried,412564,Graduate,Tier-2,Yes,668,4,104917,Medium,Mutual Fund,0
+56,Male,Retired,620191,Graduate,Tier-2,Yes,705,5,184135,High,Stocks,1
+44,Female,Retired,282634,Graduate,Tier-1,Yes,599,1,97633,High,FD,0
+51,Female,Business,2335068,Postgraduate,Tier-3,Yes,900,4,378151,Low,Mutual Fund,0
+26,Female,Salaried,1095701,Graduate,Tier-1,Yes,827,1,148646,High,FD,1
+22,Male,Business,694215,Graduate,Tier-3,Yes,773,0,370871,High,None,1
+40,Male,Student,143065,Graduate,Tier-1,Yes,506,2,41281,High,FD,0
+48,Male,Student,122895,Postgraduate,Tier-1,No,500,3,33999,Medium,FD,0
+31,Male,Professional,1791579,Graduate,Tier-2,Yes,900,0,124670,Medium,FD,1
+24,Female,Salaried,967712,Graduate,Tier-1,Yes,705,0,313429,Low,None,0
+35,Female,Salaried,404127,Graduate,Tier-2,Yes,639,0,143381,Medium,None,0
+26,Female,Retired,346426,Postgraduate,Tier-3,No,691,1,123799,High,FD,0
+50,Female,Salaried,492376,Graduate,Tier-3,No,513,3,216087,Low,FD,0
+58,Male,Salaried,311962,Postgraduate,Tier-1,Yes,707,5,46050,Medium,Mutual Fund,1
+22,Male,Professional,433302,Graduate,Tier-1,Yes,612,0,81773,High,None,0
+35,Male,Student,205382,Graduate,Tier-3,Yes,621,1,101849,High,FD,1
+31,Female,Business,504011,Postgraduate,Tier-3,Yes,687,0,287761,Medium,FD,0
+28,Male,Retired,641860,Graduate,Tier-2,Yes,722,0,80080,High,None,1
+46,Male,Professional,419782,Postgraduate,Tier-2,No,637,3,135886,Medium,FD,1
+25,Female,Business,1747339,Postgraduate,Tier-1,Yes,900,1,293198,Low,FD,0
+26,Female,Salaried,944942,Postgraduate,Tier-3,Yes,756,1,78468,Medium,FD,1
+46,Male,Salaried,732941,HSC,Tier-2,Yes,658,2,167863,High,Mutual Fund,1
+24,Male,Professional,1492035,Postgraduate,Tier-1,Yes,742,1,192514,High,Mutual Fund,1
+39,Male,Professional,1011533,Graduate,Tier-1,Yes,679,3,445543,Low,Mutual Fund,1
+40,Male,Salaried,822829,Postgraduate,Tier-3,Yes,708,3,282682,Medium,FD,1
+53,Male,Salaried,903151,Graduate,Tier-1,No,683,3,116604,Medium,FD,1
+40,Male,Student,243206,Postgraduate,Tier-1,No,551,3,13396,Medium,FD,1
+32,Female,Student,221010,Graduate,Tier-2,Yes,702,0,109286,Low,FD,1
+21,Female,Business,1581345,Graduate,Tier-1,Yes,900,0,232310,Medium,None,1
+46,Female,Salaried,669673,HSC,Tier-1,Yes,668,3,256765,High,Mutual Fund,1
+34,Male,Professional,1473276,Postgraduate,Tier-3,Yes,884,2,346672,High,FD,1
+58,Female,Business,2319728,Graduate,Tier-3,Yes,900,4,862978,Medium,Mutual Fund,1
+57,Male,Salaried,1035716,Graduate,Tier-3,Yes,763,3,231595,Medium,FD,1
+31,Male,Business,1493931,Postgraduate,Tier-3,No,875,0,146131,Medium,None,0
+56,Female,Salaried,531237,Graduate,Tier-2,Yes,631,4,91703,Medium,Stocks,1
+33,Male,Salaried,1091701,Graduate,Tier-3,Yes,727,2,167502,High,FD,1
+23,Male,Business,1408063,Graduate,Tier-2,Yes,900,1,401876,High,Mutual Fund,1
+53,Female,Professional,706024,Graduate,Tier-2,Yes,728,3,290921,Medium,FD,1
+26,Female,Professional,514003,Graduate,Tier-3,Yes,517,0,100278,Medium,FD,0
+30,Female,Salaried,439392,HSC,Tier-1,Yes,597,1,24886,High,FD,0
+25,Male,Student,169589,Graduate,Tier-2,Yes,537,1,56882,Medium,Mutual Fund,0
+43,Female,Business,750606,Graduate,Tier-2,Yes,662,3,287607,High,Mutual Fund,1
+30,Female,Student,155897,Postgraduate,Tier-1,Yes,632,1,90354,Medium,Mutual Fund,0
+22,Male,Salaried,489637,HSC,Tier-1,Yes,649,0,183226,High,None,0
+33,Female,Student,282002,Graduate,Tier-3,Yes,523,1,87179,Medium,Mutual Fund,0
+60,Female,Business,2261169,Postgraduate,Tier-3,Yes,900,3,826165,High,FD,1
+22,Female,Salaried,513893,HSC,Tier-2,Yes,685,0,287957,High,None,0
+40,Male,Business,2349388,Graduate,Tier-1,Yes,900,2,1187869,Medium,FD,1
+21,Male,Retired,457968,Postgraduate,Tier-1,Yes,602,0,104251,High,None,1
+57,Male,Student,190934,Postgraduate,Tier-3,No,608,3,34461,High,Mutual Fund,1
+29,Male,Student,175830,Postgraduate,Tier-2,Yes,682,0,34189,Medium,None,0
+37,Female,Salaried,567673,Postgraduate,Tier-1,Yes,691,0,185874,Low,None,0
+29,Male,Professional,756742,Postgraduate,Tier-2,No,779,0,347516,Low,None,0
+31,Male,Salaried,1057582,Graduate,Tier-1,Yes,726,2,345586,Medium,Mutual Fund,0
+35,Female,Salaried,382987,Postgraduate,Tier-2,Yes,626,1,33430,Medium,Mutual Fund,0
+44,Female,Student,169178,HSC,Tier-3,Yes,582,1,75786,High,FD,0
+58,Female,Business,1686585,Postgraduate,Tier-2,No,894,4,831964,Low,Mutual Fund,1
+55,Male,Salaried,684096,Graduate,Tier-2,No,713,3,143129,High,FD,1
+50,Male,Business,1064174,Graduate,Tier-2,Yes,707,3,441918,Medium,Mutual Fund,1
+51,Male,Professional,949567,Graduate,Tier-2,Yes,778,3,270271,Medium,Mutual Fund,1
+25,Female,Salaried,731322,Postgraduate,Tier-2,Yes,598,0,394194,Medium,FD,1
+34,Female,Professional,510776,HSC,Tier-1,No,572,0,262985,Medium,None,0
+31,Male,Student,221444,Postgraduate,Tier-2,No,722,1,75066,Medium,FD,1
+29,Female,Professional,768444,Postgraduate,Tier-1,Yes,673,0,330683,Medium,None,0
+54,Female,Business,1662369,Graduate,Tier-3,Yes,900,4,890767,Low,FD,1
+32,Female,Professional,610809,Postgraduate,Tier-2,Yes,774,2,197074,High,FD,1
+55,Male,Student,291616,Postgraduate,Tier-3,Yes,500,3,64822,High,Mutual Fund,1
+55,Female,Salaried,665391,Graduate,Tier-1,Yes,750,5,309085,Medium,Mutual Fund,1
+21,Female,Salaried,542262,Graduate,Tier-3,Yes,697,0,92746,High,None,0
+60,Male,Salaried,833285,Graduate,Tier-2,Yes,815,3,219730,High,Mutual Fund,1
+42,Male,Salaried,406102,Graduate,Tier-3,Yes,560,1,213670,Low,Mutual Fund,0
+49,Female,Salaried,1172143,Graduate,Tier-1,No,871,4,525626,High,Mutual Fund,1
+28,Female,Salaried,678189,Postgraduate,Tier-2,Yes,641,0,184532,High,None,1
+31,Male,Salaried,865148,HSC,Tier-3,Yes,786,1,145439,Medium,FD,1
+57,Male,Professional,1713945,Postgraduate,Tier-1,Yes,890,4,421257,Low,FD,1
+34,Female,Salaried,934402,Graduate,Tier-1,No,783,2,192727,Low,Mutual Fund,1
+50,Female,Student,233218,Graduate,Tier-2,Yes,599,4,34247,Low,Mutual Fund,0
+55,Female,Salaried,822070,Postgraduate,Tier-2,Yes,604,3,377192,High,Mutual Fund,1
+41,Female,Student,220764,Postgraduate,Tier-1,Yes,500,1,41644,Medium,Mutual Fund,0
+57,Male,Retired,357041,Graduate,Tier-1,Yes,634,5,107038,High,Mutual Fund,1
+25,Female,Salaried,674368,Graduate,Tier-1,Yes,669,1,176834,High,FD,1
+39,Female,Business,825800,Graduate,Tier-3,Yes,739,2,487339,High,FD,1
+34,Male,Retired,695096,HSC,Tier-2,No,673,1,184270,High,Mutual Fund,0
+46,Female,Professional,1116438,Graduate,Tier-3,Yes,894,2,104934,Low,FD,1
+24,Male,Business,981862,Graduate,Tier-3,Yes,760,0,97601,Medium,None,1
+45,Female,Professional,1524866,Graduate,Tier-2,Yes,828,1,571694,High,FD,1
+45,Female,Retired,306633,Postgraduate,Tier-1,Yes,631,1,116413,Low,FD,0
+38,Male,Business,2361663,Graduate,Tier-1,Yes,900,1,662015,Low,Mutual Fund,1
+60,Male,Salaried,421118,Graduate,Tier-1,Yes,639,4,121077,High,Mutual Fund,1
+28,Female,Business,1198961,Graduate,Tier-3,Yes,716,1,95512,High,Mutual Fund,0
+59,Female,Salaried,303114,Postgraduate,Tier-2,Yes,610,5,101270,Medium,Mutual Fund,0
+60,Female,Business,1312934,Postgraduate,Tier-1,Yes,783,4,430125,High,Mutual Fund,1
+34,Male,Salaried,349768,Graduate,Tier-2,Yes,552,2,46257,High,Mutual Fund,1
+52,Female,Salaried,610272,Postgraduate,Tier-2,Yes,790,2,65367,Medium,Mutual Fund,1
+58,Male,Salaried,713244,Graduate,Tier-2,No,627,5,84137,Low,Mutual Fund,1
+53,Male,Student,203123,Graduate,Tier-1,Yes,591,3,21442,High,FD,1
+43,Female,Salaried,932543,Graduate,Tier-3,Yes,688,3,359345,Medium,FD,1
+35,Male,Student,286405,Graduate,Tier-2,Yes,625,0,45270,Low,None,0
+53,Female,Salaried,303174,Postgraduate,Tier-1,Yes,534,2,57083,Medium,Mutual Fund,0
+45,Female,Salaried,417769,Postgraduate,Tier-3,Yes,683,2,60770,High,Mutual Fund,1
+37,Female,Professional,697542,HSC,Tier-1,Yes,811,1,402348,Medium,FD,1
+53,Female,Student,287001,Graduate,Tier-3,Yes,557,3,149251,Medium,Mutual Fund,0
+22,Female,Salaried,435393,Graduate,Tier-3,Yes,710,0,76965,Medium,None,0
+34,Male,Business,1934269,HSC,Tier-2,Yes,900,2,445194,High,Mutual Fund,1
+60,Male,Salaried,1051331,Graduate,Tier-3,Yes,850,5,173933,Low,Mutual Fund,1
+60,Female,Student,192635,Graduate,Tier-1,Yes,719,4,61745,High,Stocks,1
+59,Female,Professional,1328864,Graduate,Tier-3,Yes,801,5,80776,High,FD,1
+26,Male,Professional,1167166,Graduate,Tier-2,Yes,692,1,489337,Low,FD,1
+26,Male,Salaried,517070,Graduate,Tier-2,Yes,710,0,174633,High,None,0
+23,Male,Salaried,699017,Graduate,Tier-3,Yes,703,0,380440,High,None,1
+27,Male,Retired,526274,Postgraduate,Tier-3,Yes,685,0,73897,High,None,0
+28,Female,Business,1431775,Graduate,Tier-3,Yes,815,0,704805,Medium,None,1
+35,Female,Salaried,709291,Postgraduate,Tier-1,Yes,638,0,344416,High,None,1
+49,Male,Professional,769359,Graduate,Tier-3,Yes,773,2,92284,High,FD,1
+53,Female,Salaried,450056,Postgraduate,Tier-2,Yes,659,4,121158,High,Mutual Fund,1
+50,Male,Salaried,1174527,Postgraduate,Tier-3,No,698,4,168643,Low,Mutual Fund,1
+59,Female,Salaried,1147374,Graduate,Tier-2,Yes,820,3,218111,High,FD,1
+47,Male,Professional,543933,Graduate,Tier-1,Yes,687,2,105950,Medium,Mutual Fund,1
+56,Female,Salaried,398970,Postgraduate,Tier-2,Yes,610,4,142005,Low,Mutual Fund,1
+49,Male,Business,1630779,Graduate,Tier-2,Yes,900,4,450545,Medium,Mutual Fund,1
+58,Male,Salaried,492319,Graduate,Tier-3,Yes,611,5,281238,High,Mutual Fund,0
+53,Female,Salaried,500173,Graduate,Tier-1,Yes,639,2,59772,Medium,FD,0
+57,Male,Salaried,801946,Graduate,Tier-2,Yes,756,5,469563,Medium,Mutual Fund,1
+47,Female,Business,1176337,HSC,Tier-1,Yes,789,3,208036,High,Mutual Fund,1
+53,Female,Salaried,743833,Postgraduate,Tier-3,Yes,615,3,353380,Medium,Mutual Fund,1
+24,Male,Student,208177,Graduate,Tier-2,Yes,602,1,49220,High,FD,0
+42,Female,Professional,492172,Graduate,Tier-1,Yes,623,1,63339,Medium,Mutual Fund,0
+22,Female,Student,266702,Postgraduate,Tier-1,Yes,654,1,139175,Medium,Mutual Fund,0
+30,Female,Retired,270056,Graduate,Tier-1,Yes,613,1,59378,High,Mutual Fund,0
+25,Female,Student,258454,Postgraduate,Tier-2,Yes,607,0,106578,High,None,0
+30,Female,Business,1604315,Graduate,Tier-1,Yes,807,2,580030,Medium,Mutual Fund,1
+53,Male,Student,201685,HSC,Tier-1,Yes,576,2,62414,High,FD,0
+58,Female,Professional,448639,Postgraduate,Tier-3,Yes,697,3,144776,Low,FD,0
+33,Female,Salaried,753054,Graduate,Tier-3,Yes,654,1,340930,Medium,FD,0
+51,Female,Salaried,739257,Postgraduate,Tier-2,Yes,695,2,72650,Medium,Mutual Fund,1
+56,Female,Salaried,1087424,Postgraduate,Tier-3,Yes,711,5,453998,Low,Mutual Fund,1
+44,Female,Salaried,896682,Postgraduate,Tier-1,Yes,658,1,486626,Medium,Mutual Fund,0
+35,Male,Salaried,629801,Graduate,Tier-2,Yes,670,0,51507,Medium,None,1
+49,Female,Retired,539304,Postgraduate,Tier-2,Yes,668,4,68685,Low,Stocks,0
+28,Male,Salaried,1131588,Graduate,Tier-2,Yes,895,0,502592,Medium,None,1
+25,Male,Professional,582447,Graduate,Tier-2,Yes,639,0,169203,Medium,None,0
+49,Male,Business,848586,Postgraduate,Tier-2,Yes,716,4,230774,High,Mutual Fund,1
+24,Male,Business,1174932,Graduate,Tier-2,Yes,709,1,147256,High,FD,1
+32,Female,Salaried,680069,Postgraduate,Tier-2,Yes,722,1,223554,High,FD,1
+22,Male,Salaried,304136,Postgraduate,Tier-1,Yes,634,0,36374,Medium,None,0
+47,Male,Professional,461868,Postgraduate,Tier-1,Yes,731,4,144168,High,FD,1
+51,Female,Retired,594407,Graduate,Tier-1,Yes,735,2,279364,High,FD,1
+56,Female,Salaried,1118599,Postgraduate,Tier-1,No,794,5,214821,Medium,Stocks,1
+56,Female,Salaried,410957,Graduate,Tier-2,Yes,603,4,129218,Low,FD,1
+46,Male,Salaried,839767,Postgraduate,Tier-1,Yes,730,2,500172,High,Mutual Fund,0
+47,Female,Retired,369392,Graduate,Tier-3,Yes,617,2,157973,High,Mutual Fund,0
+25,Female,Salaried,986736,HSC,Tier-1,No,804,1,505945,High,FD,1
+40,Male,Salaried,960183,Graduate,Tier-1,Yes,791,1,267090,High,FD,1
+31,Female,Professional,1180516,Graduate,Tier-2,Yes,768,2,557585,High,FD,1
+30,Female,Student,139585,Graduate,Tier-1,Yes,500,1,10089,High,Mutual Fund,1
+60,Female,Student,268344,Postgraduate,Tier-2,Yes,683,3,31557,Medium,Mutual Fund,1
+58,Female,Business,2361627,Graduate,Tier-2,Yes,900,5,381848,Low,Mutual Fund,1
+26,Male,Professional,1261501,Graduate,Tier-1,Yes,783,0,341959,High,None,0
+28,Female,Salaried,602039,HSC,Tier-1,Yes,702,1,310146,Medium,FD,1
+43,Female,Salaried,565864,Graduate,Tier-2,Yes,667,3,136059,High,Mutual Fund,1
+46,Male,Salaried,581411,Graduate,Tier-1,No,745,4,238402,High,Stocks,1
+32,Female,Salaried,446768,HSC,Tier-1,Yes,523,1,196632,High,Mutual Fund,0
+46,Male,Business,1185328,Graduate,Tier-1,No,763,2,441416,High,Mutual Fund,1
+33,Female,Salaried,615508,Graduate,Tier-1,Yes,769,1,151712,Medium,Mutual Fund,1
+60,Male,Salaried,716561,HSC,Tier-2,Yes,727,5,263249,Medium,Mutual Fund,1
+38,Male,Salaried,351567,Graduate,Tier-2,Yes,726,3,83759,Medium,FD,1
+45,Male,Salaried,391229,Graduate,Tier-2,Yes,554,2,37609,High,FD,0
+53,Male,Salaried,712601,Postgraduate,Tier-1,Yes,756,3,424740,High,FD,1
+60,Female,Professional,1647892,Postgraduate,Tier-1,Yes,900,3,197665,High,Mutual Fund,1
+32,Male,Student,198518,Graduate,Tier-3,Yes,500,2,17825,Low,FD,0
+56,Female,Professional,1007132,Postgraduate,Tier-2,Yes,733,4,536994,Medium,Mutual Fund,1
+24,Male,Professional,1612567,Graduate,Tier-3,Yes,866,1,348329,High,Mutual Fund,1
+25,Male,Salaried,914985,Graduate,Tier-2,Yes,635,1,373005,Medium,FD,1
+57,Male,Salaried,881484,Postgraduate,Tier-2,Yes,709,3,203581,Medium,Mutual Fund,1
+28,Female,Salaried,939888,Graduate,Tier-2,Yes,790,0,249352,High,FD,1
+48,Male,Salaried,924913,Postgraduate,Tier-1,No,711,2,179583,High,Mutual Fund,1
+51,Female,Salaried,772617,HSC,Tier-2,Yes,719,3,184403,Medium,FD,1
+29,Female,Student,251567,Graduate,Tier-2,Yes,615,1,69403,High,FD,0
+49,Female,Salaried,1131187,HSC,Tier-1,Yes,775,3,504768,Low,FD,1
